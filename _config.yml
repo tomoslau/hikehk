@@ -14,9 +14,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Hike🇭🇰
-email: hikehk@gmail.com
+email: tomoslau@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Discover hiking trails in Hong Kong. Map included. Trail information is regularly updated.
+  Hong Kong hiking trail guides and maps. Updated regularly.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://hikehk.com" # the base hostname & protocol for your site, e.g. http://example.com
 
