@@ -39,8 +39,8 @@ The beginning ascent of Dragon’s Back trail has a lot of rock steps. The path 
 
 ### Going to the starting point
 
-Take bus 9 from Shau Kei Wan bus terminus (MTR exit A3) towards Shek O. Get off at To Tei Wan, Shek O Road.
+Take red minibus towards Shek O from the minibus stop next to Shau Kei Wan MTR exit A2, or bus 9 from the bus terminus (exit A3). Get off at To Tei Wan, Shek O Road.
 
 ### Leaving the finishing point
 
-Take bus 9 or red minibus Big Wave Bay Road bus stop to Shau Kei Wan.
+Take bus 9 or red minibus from Big Wave Bay Road bus stop back to Shau Kei Wan.
