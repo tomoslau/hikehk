@@ -10,7 +10,8 @@ layout: default
   {{ content }}
   <h1 class="jumbo">Explore Hong Kong hiking trails</h1>
   <div class="section">
-    <h2 class="post-list-heading">Popular trails</h2>
+    <h2 class="post-list-heading">Best hikes</h2>
+    <p>Top hikes you must do in Hong Kong.</p>
     <ul class="post-list">
       {% assign posts_popular = site.posts | where:"rating","5" %}
       {%- for post in posts_popular -%}
@@ -20,7 +21,6 @@ layout: default
           <h3>{{ post.title | escape }}</h3>
           <span class="post-meta">{{ post.difficulty }} · {{ post.duration }} · {{ post.region }}</span>
         </a>
-        
         {%- if site.show_excerpts -%}
           {{ post.excerpt }}
         {%- endif -%}
