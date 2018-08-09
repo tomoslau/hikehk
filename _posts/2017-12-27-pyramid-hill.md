@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Ma On Shan
+title:  Pyramid Hill
 date:   2017-12-27
 region: New Territories
 trail: Maclehose Trail
