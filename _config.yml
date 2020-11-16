@@ -13,10 +13,9 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Hike🇭🇰
-email:
-description: >- # this means to ignore newlines until "baseurl:"
-  Hong Kong hiking trail information and maps.
+title: Hike Hong Kong 🇭🇰
+email: hikehkco@gmail.com
+description: Best hiking trails in Hong Kong with trail maps, transportation instructions, reviews, and photos.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://hikehk.com" # the base hostname & protocol for your site, e.g. http://example.com
 
@@ -25,8 +24,6 @@ markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
-  - jekyll-sitemap
-  - jekyll-seo-tag
 
 # Outputting
 permalink: /:title
@@ -42,5 +39,3 @@ permalink: /:title
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
-
-exclude: [vendor]
