@@ -38,7 +38,6 @@ ul, ol, dl, figure,
 }
 
 
-
 /**
  * `main` element
  */
@@ -240,4 +239,12 @@ table {
   td {
     border: 1px solid $grey-color-light;
   }
+}
+
+
+hr {
+  border-top: 1px solid $grey-color-light;
+  border-bottom: 0px;
+  border-left: 0px;
+  border-right: 0px;
 }

@@ -17,10 +17,11 @@
   letter-spacing: -1px;
   margin-bottom: 0;
   float: left;
+  color: $brand-color;
 
   &,
   &:visited {
-    color: #000;
+    color: $brand-color;
   }
 }
 
@@ -177,10 +178,20 @@
  */
 .page-content {
   padding: $spacing-unit*4 0;
+  img {
+    margin: $spacing-unit*3 0;
+  }
+  h1, h2, h3, h4 {
+    margin-top: $spacing-unit*4;
+  }
 }
 
 .page-heading {
   @include relative-font-size(2);
+}
+
+.post .wrapper {
+  max-width: 720px;
 }
 
 .post-list-heading {
@@ -215,6 +226,9 @@
 .post-link {
   display: block;
   @include relative-font-size(1.5);
+  img {
+    border-radius: $spacing-unit;
+  }
 
   > h3 {
     margin-top: $spacing-unit;
@@ -223,12 +237,8 @@
   }
 }
 
-.jumbo {
-  padding-top: $spacing-unit*3;
-  padding-bottom: $spacing-unit * 6;
-}
-
 .section {
+  margin-top: $spacing-unit*4;
   margin-bottom: $spacing-unit*4;
 }
 /**
