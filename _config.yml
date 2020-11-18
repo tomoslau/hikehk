@@ -24,6 +24,7 @@ markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-sitemap
 
 # Outputting
 permalink: /:title
