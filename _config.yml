@@ -26,6 +26,9 @@ plugins:
   - jekyll-feed
   - jekyll-sitemap
 
+whitelist:
+  - jekyll-sitemap
+
 # Outputting
 permalink: /:title
 
