@@ -244,3 +244,20 @@ hr {
   border-left: 0px;
   border-right: 0px;
 }
+
+
+.btn {
+  display: inline-block;
+  text-align: center;
+  text-decoration: none;
+  font-weight: bold;
+  margin: 2px 0;
+  border: solid 1px transparent;
+  border-radius: $spacing-unit;
+  padding: 0.5em 1em;
+  color: #fff;
+  background-color: $brand-color;
+  &:visited {
+    color: #fff;
+  }
+}
