@@ -14,7 +14,7 @@ rating: 5
 mid: 1JYZNRY166X5pH6ZHaxxmOPUV4Vs7msUi
 ---
 
-![Ridges of Pat Sin Leng](/assets/{{ page.title }}-1.jpg)
+## Description
 
 The Cloudy Hill-Wong Leng-Pat Sin Leng hike is a 7-hour hike for the experienced and energetic hiker looking for a good workout. This undulating section of the Wilson Trail meanders through eight iconic hills named after immortals in Chinese Mythology, views of Shenzhen, and the beautiful Tai Mei Tuk reservoir.
 

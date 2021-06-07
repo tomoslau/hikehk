@@ -13,9 +13,9 @@ distance: 12.7km
 rating: 5
 mid: 1ZtJOkzX-ivONljVlqSeLNUsWMKY
 ---
-Maclehose Trail Section 4 is one of the hardest sections. The hike is 12.7km and takes around 5 hours to complete. It begins at Kei Ling Ha, where Sai Kung West Country Park meets Ma On Shan Country Park. The trail goes through several climbs through Ma On Shan, the highest point being 540m above sea level along the ridges near Pyramid Hill. At the plateau, enjoy panoramic views of the Sai Kung Islands to the East, and Ma On Shan, Sha Tin, and Tai Po to the West. The trail ends at Tai Lo Shan in the middle of the mountains with no public transport nearby. Make sure to plan ahead and account for extra time and water to get down the mountains. The walk down to Ho Chung, Siu Lek Yuen, or Diamond Hill takes an additional 1-2 hours.
+## Description
 
-![Ridge overlooking Sai Kung and Sha Tin](/assets/{{ page.title }}-1.jpg)
+Maclehose Trail Section 4 is one of the hardest sections. The hike is 12.7km and takes around 5 hours to complete. It begins at Kei Ling Ha, where Sai Kung West Country Park meets Ma On Shan Country Park. The trail goes through several climbs through Ma On Shan, the highest point being 540m above sea level along the ridges near Pyramid Hill. At the plateau, enjoy panoramic views of the Sai Kung Islands to the East, and Ma On Shan, Sha Tin, and Tai Po to the West. The trail ends at Tai Lo Shan in the middle of the mountains with no public transport nearby. Make sure to plan ahead and account for extra time and water to get down the mountains. The walk down to Ho Chung, Siu Lek Yuen, or Diamond Hill takes an additional 1-2 hours.
 
 ## Hike elevation
 

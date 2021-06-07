@@ -13,9 +13,9 @@ distance: 4.5km
 rating: 3
 mid: 1YC5QxzbbZua4blYpeD-w9GWKqlw
 ---
-Hong Kong Trail Section 6 begins at Mount Parker Road, runs along the east side of Tai Tam Reservoirs, and ends at Tai Tam Road. Located deep into the mountains, there are no roads or transport near the starting point. The easiest way to get there is to walk the Quarry Bay Tree Walk and Mount Parker Road from Quarry Bay—around 260m ascent, which takes an additional 1-2 hours. Section 6 is an easy hike with a gradual descent and flat surface.
+## Description
 
-![Tai Tam Reservoir.](/assets/{{ page.title }}-1.jpg)
+Hong Kong Trail Section 6 begins at Mount Parker Road, runs along the east side of Tai Tam Reservoirs, and ends at Tai Tam Road. Located deep into the mountains, there are no roads or transport near the starting point. The easiest way to get there is to walk the Quarry Bay Tree Walk and Mount Parker Road from Quarry Bay—around 260m ascent, which takes an additional 1-2 hours. Section 6 is an easy hike with a gradual descent and flat surface.
 
 At Tai Tam Byewash Reservoir (the second reservoir in the hike,) I was surprised to see koi fish. Koi in a reservoir is something I’ve never seen before. I wonder what happened here.
 

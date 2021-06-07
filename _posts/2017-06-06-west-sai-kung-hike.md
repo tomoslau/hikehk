@@ -13,9 +13,9 @@ distance: 10.2km
 rating: 4
 mid: 1o3ejWafS00Y6fhJb6jr878sg0Qw
 ---
-Maclehose Trail Section 3 is a difficult hiking trail in West Sai Kung that climbs over three mountains between Pak Tam Au and Kei Ling Ha. The trail heads straight into nature, surrounded by greenery and mountains from all directions. To the west, the direction of the trail, are views of Ma On Shan and Tai Po past Tolo Harbour. Looking back throughout the trail are views of East Sai Kung, and South China Sea beyond the mountains.
+## Description
 
-![View of Sai Kung from Section 3](/assets/{{ page.title }}-1.jpg)
+Maclehose Trail Section 3 is a difficult hiking trail in West Sai Kung that climbs over three mountains between Pak Tam Au and Kei Ling Ha. The trail heads straight into nature, surrounded by greenery and mountains from all directions. To the west, the direction of the trail, are views of Ma On Shan and Tai Po past Tolo Harbour. Looking back throughout the trail are views of East Sai Kung, and South China Sea beyond the mountains.
 
 The elevation gains—especially the last climb to Kai Kung Shan, and mixture of flat steps and rocky surface make this hike difficult to climb. The trail experience is perfect for those who want a challenge.
 

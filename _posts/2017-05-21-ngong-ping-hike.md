@@ -13,9 +13,9 @@ distance: 2.5km
 rating: 3
 mid: 1QiDs2YaCfBw_Rpx9lFz2deBWhC0
 ---
-Lantau Trail Section 3 is a short hike around the north side of Ngong Ping. The trail offers views of the Ngong Ping village, including Tian Tan Buddha, from a high vantage point.
+## Description
 
-![Trail around Ngong Ping with view of Tian Tan Buddha](/assets/{{ page.title }}-1.jpg)
+Lantau Trail Section 3 is a short hike around the north side of Ngong Ping. The trail offers views of the Ngong Ping village, including Tian Tan Buddha, from a high vantage point.
 
 Make sure to also check out the Wisdom Path at the ending point of Section 3 and the beginning point of Section 4. The path is lined with 38 wooden monuments inscribed with the Heart Sutra prayer and created by Professor Jao Tsung-I. The columns are arranged in a figure-of-eight formation to symbolize infinity.
 

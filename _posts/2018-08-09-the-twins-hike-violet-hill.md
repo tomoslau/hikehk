@@ -14,7 +14,7 @@ rating: 5
 mid: 1ci0xh1-QWt0FciV2JA9FE1mWxC6uE_fk
 ---
 
-![View of Stanley, 1000 steps looking down from the Twins](/assets/{{ page.title }}-1.jpg)
+## Description
 
 The Twins and Violet Hill hike is one of the hardest hikes in Hong Kong. It's perfect if you want a quick and intense workout. The hike is also known as "A Thousand Steps", which refers to the number of steps between The Twins peak and Stanley. 
 

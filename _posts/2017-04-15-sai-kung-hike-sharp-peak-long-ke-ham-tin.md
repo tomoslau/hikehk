@@ -13,11 +13,11 @@ distance: 13.5km
 rating: 5
 mid: 1IicbqLakAFVXsMI-6mnBXog-FaU
 ---
+## Description
+
 Maclehose Trail Section 2 is a trail that runs along the east peninsula of Sai Kung. It starts at Long Ke, near East Dam of High Island Reservoir, and heads north, passing by Long Ke beach. From there, the trail makes an ascent to Sai Wan Shan, and then down to Sai Wan and Ham Tin beach. The trail continues west towards Chek Kang, and ends at Pak Tam Au.
 
 Keep in mind there is no public transport to the starting point of the hike. A taxi ride from Sai Kung Town Center costs around HKD 100. Alternatively, start your hike three hours earlier and hike Section 1, an easy walk from Pak Tam Chung.
-
-![Maclehose Trail Section 2: View from the descent of Sai Wan Shan](/assets/{{ page.title }}-1.jpg)
 
 ## Hike elevation
 

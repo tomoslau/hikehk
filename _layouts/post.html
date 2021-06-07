@@ -2,12 +2,9 @@
 layout: default
 ---
 <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
-  {% if page.mid %}
-    <div class="overlay" onClick="style.pointerEvents='none'"></div>
-    <iframe src="https://www.google.com/maps/d/u/0/embed?mid={{ page.mid }}" id="map"></iframe>  
-  {% endif %}
   <div class="wrapper">
     <header class="post-header">
+      <img src="/assets/{{ page.title }}-1.jpg" alt="{{ page.title }}">
       <h1 class="post-title p-name" itemprop="name headline">{{ page.title | escape }}</h1>
       <p class="post-meta">
         <span>{{ page.difficulty }}</span> · <span>{{ page.duration }}</span> · <span>{{ page.distance }}</span> · <span>{{ page.trail }} Section {{ page.section }} · {{ page.region }}</span>
@@ -19,6 +16,10 @@ layout: default
         {%- if page.author -%}
           • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span class="p-author h-card" itemprop="name">{{ page.author }}</span></span>
         {%- endif -%}</p>
+      <h2>Map</h2>
+      <div id="map-wrapper">
+        <iframe src="https://www.google.com/maps/d/u/0/embed?mid={{ page.mid }}" id="mapp"></iframe>
+      </div>
     </header>
 
     <div class="post-content e-content" itemprop="articleBody">

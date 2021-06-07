@@ -13,9 +13,9 @@ distance: 7.5km
 rating: 4
 mid: 14DC2vGHu9fCBJEx7lqpbSymhfaE
 ---
-Lantau Trail Section 5 begins at Keng Shan Road by the Sham Wat Road bus stop and goes through three mountains: Kwun Yam Shan, Keung Shan (459m) and Ling Wui Shan (490m.) Enjoy scenic views of surrounding southwest-Lantau mountains and oceans at the peaks of each mountain. The trail ends at Lung Tsai Ng Yuen, a private dilapidated park with ponds, bridges, and houses.
+## Description
 
-![Mountains along the hike to Keung Shan](/assets/{{ page.title }}-1.jpg)
+Lantau Trail Section 5 begins at Keng Shan Road by the Sham Wat Road bus stop and goes through three mountains: Kwun Yam Shan, Keung Shan (459m) and Ling Wui Shan (490m.) Enjoy scenic views of surrounding southwest-Lantau mountains and oceans at the peaks of each mountain. The trail ends at Lung Tsai Ng Yuen, a private dilapidated park with ponds, bridges, and houses.
 
 ## Hike elevation
 

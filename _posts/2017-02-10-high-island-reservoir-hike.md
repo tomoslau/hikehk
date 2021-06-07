@@ -13,7 +13,7 @@ distance: 10.6km
 rating: 4
 mid: 1ppBUUGItvhlf76abBurWg9EM4qU
 ---
-![Breakwaters at East Gate.Breakwaters at High Island Reservoir East Gate.](/assets/{{ page.title }}-1.jpg)
+## Description
 
 The first section of the Maclehose Trail is a flat and easy hike. The trail starts at the end of Tai Mong Zai Road in Sai Kung and heads south along the west side of the serene High Island Reservoir. There are two dams in the trail: West Dam near the halfway point, and East Dam at the end of the trail. The East Dam features a view of the reservoir to the west, and the South China Sea to the east. The road parrallel to the East Dam is filled with gigantic T/H-shaped breakwater stone structions that protect the coast. It’s a popular photo taking spot and you’ll see plenty of Instagram models there.
 

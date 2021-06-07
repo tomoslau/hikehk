@@ -13,11 +13,11 @@ distance: 4.6km
 rating: 3
 mid: 124zEpADuKKd35ji1iJ3xP2y4B7Q
 ---
+## Description
+
 Maclehose Trail Section 6 begins at Tai Po Road, by Shek Lei Pui Reservoir, just north of Cheung Sha Wan. The hike heads north and passes through Kam Shan, with views of the Kowloon Reservoirs and the West Kowloon/New Territories cityscape. Trenches and tunnels, part of the Shing Mun War Relics, surround the path near the end of the trail.
 
 🐒 Monkeys roam around Kam Shan and Tai Po Road. Make sure you’re not carrying any food in an open bag. Sneaky monkies know how to pickpocket!
-
-![Kowloon Reservoir at the beginning of Maclehose Trail Section 6](/assets/{{ page.title }}-1.jpg)
 
 ## Hike elevation
 

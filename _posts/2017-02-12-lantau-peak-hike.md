@@ -13,11 +13,11 @@ distance: 4.5km
 rating: 4
 mid: 11eL-1ecsPbu2ul_sm5KomKbOut4
 ---
+## Description
+
 Lantau Peak, also known as Phoenix Mountain—Fung Wong Shan in Cantonese, is the second highest peak in Hong Kong with a height of 934m behind Tai Mo Shan (957m.) Hiking Lantau Peak involves climbing up and down plenty of rocky steps.
 
 On cloudy days, most of the trail is covered in clouds, which creates a mysterious atmosphere. The weather gets colder and more windy at higher altitudes, so make sure you pack an extra layer of clothing and headwear. During my hike on a wet day in January, my hoodie wasn’t warm enough and I had to wrap my spare T-shirt around my head to cover my ears, which made me look like I had Princess Leia’s hairbuns.
-
-![Steps toward Lantau Peak.](/assets/{{ page.title }}-1.jpg)
 
 ## Hike elevation
 

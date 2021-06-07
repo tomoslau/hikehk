@@ -14,7 +14,7 @@ rating: 5
 mid: 1-OFQuqMu41lsJaFJn3jG3FrkuI0
 ---
 
-![Plateau at Sunset Peak](/assets/{{ page.title }}-1.jpg)
+## Description
 
 Lantau Trail Section 2 is a difficult hike that starts from Nam Shan, ascents to Yi Tung Shan and Sunset Peak, and descents to Pak Kung Au. The trail’s highest point is around 780m above sea level. Hiking to the top of Sunset Peak (869m—the third highest peak in Hong Kong after Tai Mo Shan and Lantau Peak) is only an additional 90m ascent. When hiking on cloudy days, the views from Sunset Peak is heavily obscured due to its elevation, an excellent opportunity for hikers to make snarky comments to other hikers who’re trying to take photos.
 

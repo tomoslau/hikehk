@@ -13,9 +13,9 @@ distance: 7.5km
 rating: 3
 mid: 19-ENW1YOlSy8Vw3Bqc8x5dCZwrY
 ---
-Hong Kong Trail Section 4 starts at Wan Chai Gap and goes around the south side of Mount Cameron that faces Ocean Park. The trail ends at Wong Nai Chung Road, past Black’s Link. Throughout the hike are views of Ocean Park and Wong Chuk Hang area. The hike can be easily completed within 2 hours. The trail is relatively flat, except for a gradual ascent from mid-trail at the southmost point. Follow the Hong Kong Trail hiking signs (profile of man and woman hiking) and signs toward Black’s Link for this trail.
+## Description
 
-![Beginning of Section 4 with giant pipes running across.](/assets/{{ page.title }}-1.jpg)
+Hong Kong Trail Section 4 starts at Wan Chai Gap and goes around the south side of Mount Cameron that faces Ocean Park. The trail ends at Wong Nai Chung Road, past Black’s Link. Throughout the hike are views of Ocean Park and Wong Chuk Hang area. The hike can be easily completed within 2 hours. The trail is relatively flat, except for a gradual ascent from mid-trail at the southmost point. Follow the Hong Kong Trail hiking signs (profile of man and woman hiking) and signs toward Black’s Link for this trail.
 
 ## Hike elevation
 

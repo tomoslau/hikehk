@@ -13,9 +13,9 @@ distance: 7km
 rating: 4
 mid: 1g-rl-9n6Wh1G7_gQ0As8grxEAtE
 ---
-Hong Kong Trail Section 1 begins at The Peak and ends at Pok Fu Lam Reservoir. It covers the East, North and West side of Victoria Peak, and the West and South side of Mount High West. On clear days, the Victoria Harbor (Hong Kong’s iconic skyline view of Hong Kong North coast and Kowloon) is visible throughout the hike around Victoria Peak. Section 1 is also great for viewing eagles, plants, and butterflies.
+## Description
 
-![Victoria Peak view from Lugard Road](/assets/{{ page.title }}-1.jpg)
+Hong Kong Trail Section 1 begins at The Peak and ends at Pok Fu Lam Reservoir. It covers the East, North and West side of Victoria Peak, and the West and South side of Mount High West. On clear days, the Victoria Harbor (Hong Kong’s iconic skyline view of Hong Kong North coast and Kowloon) is visible throughout the hike around Victoria Peak. Section 1 is also great for viewing eagles, plants, and butterflies.
 
 ## Hike elevation
 

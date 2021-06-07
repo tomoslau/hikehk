@@ -13,11 +13,11 @@ distance: 6.2km
 rating: 5
 mid: 1toUa4Xb_iuEMGe4E53CUco6jkZc
 ---
+## Description
+
 Maclehose Trail Section 7 is a hike along the ridges in Shing Mun Country Park. It begins at Shing Mun Reservoir and ends at Lead Mine Pass, through Needle Hill and Grassy Hill.
 
 ⚠ The ending point’s closest transport options are 1-2 hours walk away (Tai Po or Fo Tan marked in map.)
-
-![Needle Hill ascent with views of Sha Tin to the east](/assets/{{ page.title }}-1.jpg)
 
 The hike offers serene views of Shing Mun Reservoir and the mountain ridges. On a clear day, views of West Kowloon and New Territories (from Tsuen Wan to Cheung Sha Wan,) and even the Ting Kau Bridge are visible from the climb to Needle Hill (532m.) On the opposite side, facing east, are views of Tai Wai and Sha Tin with a backdrop of mountains from earlier Maclehose sections, including Lion Rock.
 

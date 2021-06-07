@@ -53,9 +53,8 @@ main {
 img {
   max-width: 100%;
   vertical-align: middle;
+  border-radius: $spacing-unit;
 }
-
-
 
 /**
  * Figures
@@ -73,9 +72,6 @@ figcaption {
 /**
  * Lists
  */
-ul, ol {
-  margin-left: $spacing-unit;
-}
 
 li {
   > ul,

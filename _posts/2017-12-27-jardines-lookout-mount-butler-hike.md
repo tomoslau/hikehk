@@ -13,9 +13,10 @@ distance: 4km
 rating: 4
 mid: 1nR1pIdBQE5aIm7sxm32T4cF19tU
 ---
-Hong Kong Trail Section 5 begins at Wong Nai Chung Road and passes through Jardine’s Lookout (433m) and Mount Butler (436m.) Throughout parts of the hike, enjoy views of the Hong Kong Island and Kowloon (if the skies are clear) cityscape to the north, and Tai Tam Reservoir and surrounding mountains to the south. Although this section is fairly short, the ascents and sharp descents make it a fairly difficult hike.
 
-![View of Tai Tam Reservoir](/assets/{{ page.title }}-1.jpg)
+## Description
+
+Hong Kong Trail Section 5 begins at Wong Nai Chung Road and passes through Jardine’s Lookout (433m) and Mount Butler (436m.) Throughout parts of the hike, enjoy views of the Hong Kong Island and Kowloon (if the skies are clear) cityscape to the north, and Tai Tam Reservoir and surrounding mountains to the south. Although this section is fairly short, the ascents and sharp descents make it a fairly difficult hike.
 
 ⚠ The closest transportation from the endpoint is in Quarry Bay, an additional one-hour walk down Mount Parker Road. Alternatively, continue to Section 6, where there is transportation to Sai Wan Ho at the end.
 

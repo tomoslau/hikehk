@@ -13,9 +13,9 @@ distance: 6.5km
 rating: 4
 mid: 1TLujU9fy_03zP36ZIW21yDyYJLk
 ---
-Hong Kong Trail Section 3 is beautiful to the eyes, the ears, and the feet. The trail boasts an abundance of trees, streams, and bird songs. The trees create a canopy that provides shade. On a clear day, the sunlight seeps through the slits of the canopy, and creates a beautiful atmosphere to hike in. Starting from Peel Rise, the trail circles around the vertical strip of Tin Wan Shan and finishes at Wan Chai Gap. The hiking trail is mostly flat with dirt surface, and can be completed in one and a half hour at a moderate speed.
+## Description
 
-![The canopies throughout the trail provide great shade.](/assets/{{ page.title }}-1.jpg)
+Hong Kong Trail Section 3 is beautiful to the eyes, the ears, and the feet. The trail boasts an abundance of trees, streams, and bird songs. The trees create a canopy that provides shade. On a clear day, the sunlight seeps through the slits of the canopy, and creates a beautiful atmosphere to hike in. Starting from Peel Rise, the trail circles around the vertical strip of Tin Wan Shan and finishes at Wan Chai Gap. The hiking trail is mostly flat with dirt surface, and can be completed in one and a half hour at a moderate speed.
 
 ## Hike elevation
 

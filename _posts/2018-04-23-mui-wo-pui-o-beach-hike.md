@@ -14,7 +14,7 @@ rating: 4
 mid: 1pH76qL53rfl6CWzglg-fpVLuehtWbxQG
 ---
 
-![Pui O beach near the end of the hike](/assets/{{ page.title }}-1.jpg)
+## Description
 
 The hike from Mui Wo to Pui O beach features views of the surrounding ocean southeast of Lantau Island. The moderate hike has a 260m elevation and is great for people who love nature and beaches. 
 

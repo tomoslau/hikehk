@@ -13,10 +13,9 @@ distance: 16km
 rating: 2
 mid: 1D0kMoNJEitwntm3aQg8jVyOe4eY
 ---
+## Description
 
 The hiking trail begins at Shek Pik Reservoir, and heads southwest towards Fan Lau, then north to end at Tai O. There's minimal elevation in this hike and the surface is 90% concrete. Few views of Lantau west coast beaches and rocks.
-
-![Highlight of this trail: open views of Fan Lau east and west coast beaches](/assets/{{ page.title }}-1.jpg)
 
 This trail is done in reverse to make it easier to get on a bus on the return trip back to Tung Chung. Getting on a bus from Shek Pik is difficult if the buses are full already.
 

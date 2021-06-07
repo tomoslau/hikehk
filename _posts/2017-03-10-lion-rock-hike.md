@@ -13,9 +13,9 @@ distance: 10.6km
 rating: 5
 mid: 1LmHdym39ktAoR15bN30JX0q4sIE
 ---
-Maclehose Trail Section 5 stretches across the mountain range between East New Territories and Kowloon. The hike is rated medium difficulty and takes three hours to complete. Hiking up to Lion Rock Head is not part of the trail, but is a popular path for hikers due the iconic rocks and high vantage point it offers. Hiking up to Lion Rock Head increases the difficulty to hard and adds an additional hour to the hike.
+## Description
 
-![View of Kowloon from Lion Rock Head.](/assets/{{ page.title }}-1.jpg)
+Maclehose Trail Section 5 stretches across the mountain range between East New Territories and Kowloon. The hike is rated medium difficulty and takes three hours to complete. Hiking up to Lion Rock Head is not part of the trail, but is a popular path for hikers due the iconic rocks and high vantage point it offers. Hiking up to Lion Rock Head increases the difficulty to hard and adds an additional hour to the hike.
 
 The starting point of Section 5 isn’t accessible by transportation. If you’re not continuing from Section 4, you can walk to various points of the trail from the MTR stations on the Kwun Tong (green) line. Expect an additional hour or two for getting there. For more detail, scroll down to the transportation section below.
 

@@ -14,7 +14,7 @@ rating: 4
 mid: 1v787XhsTQo4vBp-TmmCGGZ-1hTZMjnHg
 ---
 
-![Tai Po Kau trails are mostly covered by trees with nice dirt and rocky surface](/assets/{{ page.title }}-1.jpg)
+## Description
 
 Tai Po Kau forest offers a range of beautiful circular routes that are all easy to hike with elevations between 100-400m. The native reserve is lush with wildlife, and the dense trees provide shade, making it a perfect hike for those with sensitive skin and short necks. Beware of monkeys 🐒 (especially near the brown and yellow walks) who may steal your lunch or taunt your dog, and bird watchers’ telephoto lens and expensive gear that may get in your way. The different paths are marked by distinct wooden signs throughout the trail that are difficult to miss. 
 

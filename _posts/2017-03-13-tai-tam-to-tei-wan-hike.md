@@ -13,9 +13,9 @@ distance: 7.5km
 rating: 1
 mid: 1C0I0odad9Peuu9lOWXYtvmNxOyw
 ---
-Hong Kong Trail Section 7 is an easy, flat, concrete trail that runs from Tai Tam Road to To Tei Wan, the west coast of Shek O. The majority of the trail is lined with a railing on the left side to prevent hikers from falling into the water channel that runs parallel to the path. To the right are views of Tai Tam Tuk, Red Hill, and Stanley. It’s a clean, easy, and relaxing walk. Towards the end is a small beach where Hong Kong Hobie Club is located.
+## Description
 
-![Shek O rocks approaching the end of the trail.](/assets/{{ page.title }}-1.jpg)
+Hong Kong Trail Section 7 is an easy, flat, concrete trail that runs from Tai Tam Road to To Tei Wan, the west coast of Shek O. The majority of the trail is lined with a railing on the left side to prevent hikers from falling into the water channel that runs parallel to the path. To the right are views of Tai Tam Tuk, Red Hill, and Stanley. It’s a clean, easy, and relaxing walk. Towards the end is a small beach where Hong Kong Hobie Club is located.
 
 ## Hike elevation
 

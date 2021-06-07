@@ -13,9 +13,9 @@ distance: 8.5km
 rating: 5
 mid: 1kVFTNiwgwdwVUM_bkRcrP6Ay6dk
 ---
-Rated as the best urban hike in Asia by TIME magazine, best hike in Hong Kong by Lonely Planet and CNN Travel, Dragon’s Back trail features a magnificent scenic view for a relatively easy walk. Throughout the trail, you’ll experience a few vantage points that cover Shek O Village and Beach, as well as Ng Fan Chau and Tung Lung Chau islands. If you enjoy solitude, it’s best to avoid Dragon’s Back during weekends, as it gets quite crowded and causes several choke points.
+## Description
 
-![View of Shek O from Dragon’s Back](/assets/{{ page.title }}-1.jpg)
+Rated as the best urban hike in Asia by TIME magazine, best hike in Hong Kong by Lonely Planet and CNN Travel, Dragon’s Back trail features a magnificent scenic view for a relatively easy walk. Throughout the trail, you’ll experience a few vantage points that cover Shek O Village and Beach, as well as Ng Fan Chau and Tung Lung Chau islands. If you enjoy solitude, it’s best to avoid Dragon’s Back during weekends, as it gets quite crowded and causes several choke points.
 
 ## Hike elevation
 

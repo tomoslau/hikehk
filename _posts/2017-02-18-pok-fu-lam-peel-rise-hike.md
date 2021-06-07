@@ -13,9 +13,9 @@ distance: 4.5km
 rating: 3
 mid: 11kAWTTaLnQ-yaichbaPltL3ZCe8
 ---
-Hong Kong Trail Section 2 starts from Pok Fu Lam Reservoir and runs along the south west edges of The Peak. The southmost point of the trail features a scenic view of Aberdeen and Ap Lei Chau. It gets close to several transmission towers that create soft buzzing noises. Most of the trail is paved with small steps for easy footing. The trail distance is short compared to other sections of the Hong Kong Trail, but takes a longer time due to the elevation.
+## Description
 
-![View of Aberdeen, Ap Lei Chau, and power cables.](/assets/{{ page.title }}-1.jpg)
+Hong Kong Trail Section 2 starts from Pok Fu Lam Reservoir and runs along the south west edges of The Peak. The southmost point of the trail features a scenic view of Aberdeen and Ap Lei Chau. It gets close to several transmission towers that create soft buzzing noises. Most of the trail is paved with small steps for easy footing. The trail distance is short compared to other sections of the Hong Kong Trail, but takes a longer time due to the elevation.
 
 The starting point can be easily missed, especially when continuing from Section 1. Look for the blue sign with the Water Supplies Department logo. The open path to the right leads to Pok Fu Lam Reservoir instead.
 

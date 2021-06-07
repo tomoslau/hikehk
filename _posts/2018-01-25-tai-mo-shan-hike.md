@@ -13,11 +13,11 @@ distance: 9.7km
 rating: 4
 mid: 1sk1YLRZFj48furF29y_DWgK3ey4
 ---
+## Description
+
 Tai Mo Shan is Hong Kong’s highest mountain, with a peak elevation of 957m. Its nickname in Chinese is 大霧山—Big Mist Mountain (which is also pronounced Tai Mo Shan) because it’s always covered by clouds (especially during March and April). Tai Mo Shan is also one of the only places in Hong Kong that falls below freezing point (0°C) during winter. Every year, frost chasers walk up the mountain in hope of finding frost and ice.
 
 The mountain stretches through the middle of New Territories, with views of surrounding towns like Tai Po, West New Territories, and even the Shen Zhen’s cityscape on a clear day.
-
-![View of Tai Mo Shan from Maclehose Trail Section 8](/assets/{{ page.title }}-1.jpg)
 
 The trail itself is not that difficult compared to others like Lantau Peak and Sunset Peak, due to the gradual ascent and car-road S-curved descent.
 
