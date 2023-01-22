@@ -1,6 +1,7 @@
 ---
 layout: post
 title: The Twins Hike and Violet Hill
+lang-ref: The Twins Hike and Violet Hill
 date: 2018-08-09
 region: Hong Kong Island
 trail: Wilson Trail

@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  High Island Reservoir Hike
+lang-ref:  High Island Reservoir Hike
 date:   2017-02-10
 region: New Territories
 trail: Maclehose Trail

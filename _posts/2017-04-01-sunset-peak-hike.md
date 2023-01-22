@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  Sunset Peak Hike
+lang-ref:  Sunset Peak Hike
 date:   2017-04-01
 region: Lantau
 trail: Lantau Trail

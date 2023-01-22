@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  High West Hike and Victoria Peak
+lang-ref:  High West Hike and Victoria Peak
 date:   2017-02-18
 region: Hong Kong Island
 trail: Hong Kong Trail

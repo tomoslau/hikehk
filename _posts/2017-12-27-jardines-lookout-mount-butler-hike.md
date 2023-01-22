@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  Jardine’s Lookout and Mount Butler Hike
+lang-ref:  Jardine’s Lookout and Mount Butler Hike
 date:   2017-12-27
 region: Hong Kong Island
 trail: Hong Kong Trail

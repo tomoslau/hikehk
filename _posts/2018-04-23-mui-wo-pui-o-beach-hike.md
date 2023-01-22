@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  Mui Wo to Pui O Beach Hike
+lang-ref:  Mui Wo to Pui O Beach Hike
 date:   2018-04-23
 region: Lantau
 trail: Lantau Trail

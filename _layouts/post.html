@@ -4,7 +4,7 @@ layout: default
 <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
   <div class="wrapper">
     <header class="post-header">
-      <img src="/assets/{{ page.title }}-1.jpg" alt="{{ page.title }}">
+      <img src="/assets/{{ page.lang-ref }}-1.jpg" alt="{{ page.title }}">
       <h1 class="post-title p-name" itemprop="name headline">{{ page.title | escape }}</h1>
       <p class="post-meta">
         <span>{{ page.difficulty }}</span> · <span>{{ page.duration }}</span> · <span>{{ page.distance }}</span> · <span>{{ page.trail }} Section {{ page.section }} · {{ page.region }}</span>
@@ -16,7 +16,13 @@ layout: default
         {%- if page.author -%}
           • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span class="p-author h-card" itemprop="name">{{ page.author }}</span></span>
         {%- endif -%}</p>
-      <h2>Map</h2>
+      <h2>
+        {%- if page.lang == 'zh' -%}
+          地圖
+        {%- else -%}
+          Map
+        {%- endif -%}
+      </h2>
       <div id="map-wrapper">
         <iframe src="https://www.google.com/maps/d/u/0/embed?mid={{ page.mid }}" id="mapp"></iframe>
       </div>
@@ -30,17 +36,33 @@ layout: default
       <h2>Explore more hikes</h2>
       <ul class="post-list">
         {%- for post in site.posts limit:6 -%}
+        {%- if page.lang == 'zh' -%}
+          {%- if post.lang == 'zh' -%}
+          <li>
+            <a class="post-link" href="{{ post.url | relative_url }}">
+              <img src="/assets/{{ post.lang-ref }}-1.jpg" />
+              <h3>{{ post.title | escape }}</h3>
+              <span class="post-meta">{{ post.difficulty }} · {{ post.duration }} · {{ post.region }}</span>
+            </a>
+            {%- if site.show_excerpts -%}
+              {{ post.excerpt }}
+            {%- endif -%}
+          </li>
+          {%- endif -%}
+        {%- else -%}
+        {%- if post.lang != 'zh' -%}
         <li>
           <a class="post-link" href="{{ post.url | relative_url }}">
-            <img src="/assets/{{ post.title }}-1.jpg" />
+            <img src="/assets/{{ post.lang-ref }}-1.jpg" />
             <h3>{{ post.title | escape }}</h3>
             <span class="post-meta">{{ post.difficulty }} · {{ post.duration }} · {{ post.region }}</span>
           </a>
-          
           {%- if site.show_excerpts -%}
             {{ post.excerpt }}
           {%- endif -%}
         </li>
+        {%- endif -%}        
+        {%- endif -%}  
         {%- endfor -%}
       </ul>
       <div class="section" style="text-align:center">

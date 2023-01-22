@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  Keung Shan and Ling Wui Shan Hike
+lang-ref:  Keung Shan and Ling Wui Shan Hike
 date:   2018-01-08
 region: Lantau
 trail: Lantau Trail

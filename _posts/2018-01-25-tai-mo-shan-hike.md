@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  Tai Mo Shan Hike
+lang-ref:  Tai Mo Shan Hike
 date:   2018-01-25
 region: New Territories
 trail: Maclehose Trail

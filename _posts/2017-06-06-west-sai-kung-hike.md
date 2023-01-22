@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  West Sai Kung Hike
+lang-ref:  West Sai Kung Hike
 date:   2017-06-06
 region: New Territories
 trail: Maclehose Trail

@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  Mui Wo to Nam Shan Hike
+lang-ref:  Mui Wo to Nam Shan Hike
 date:   2017-03-20
 region: Lantau
 trail: Lantau Trail

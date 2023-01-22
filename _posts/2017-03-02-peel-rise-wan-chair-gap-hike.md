@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  Peel Rise to Wan Chai Gap Hike
+lang-ref:  Peel Rise to Wan Chai Gap Hike
 date:   2017-03-02
 region: Hong Kong Island
 trail: Hong Kong Trail

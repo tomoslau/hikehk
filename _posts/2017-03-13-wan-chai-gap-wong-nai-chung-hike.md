@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  Wan Chai Gap to Wong Nai Chung Road Hike
+lang-ref:  Wan Chai Gap to Wong Nai Chung Road Hike
 date:   2017-03-13
 region: Hong Kong Island
 trail: Hong Kong Trail

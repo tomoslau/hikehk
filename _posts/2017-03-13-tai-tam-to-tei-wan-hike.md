@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  Tai Tam Road to To Tei Wan Hike
+lang-ref:  Tai Tam Road to To Tei Wan Hike
 date:   2017-03-13
 region: Hong Kong Island
 trail: Hong Kong Trail

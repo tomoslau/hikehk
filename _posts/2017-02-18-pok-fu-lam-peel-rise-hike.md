@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  Pok Fu Lam to Peel Rise Hike
+lang-ref:  Pok Fu Lam to Peel Rise Hike
 date:   2017-02-18
 region: Hong Kong Island
 trail: Hong Kong Trail

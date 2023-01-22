@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  Lion Rock Hike
+lang-ref:  Lion Rock Hike
 date:   2017-03-10
 region: Kowloon
 trail: Maclehose Trail

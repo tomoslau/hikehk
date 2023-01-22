@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  Ngong Ping Hike
+lang-ref:  Ngong Ping Hike
 date:   2017-05-21
 region: Lantau
 trail: Lantau Trail

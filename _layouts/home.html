@@ -18,9 +18,10 @@ layout: default
     <ul class="post-list">
       {% assign posts_popular = site.posts | where:"rating","5" %}
       {%- for post in posts_popular -%}
+      {%- if post.lang != 'zh' -%}
       <li>
         <a class="post-link" href="{{ post.url | relative_url }}">
-          <img src="/assets/{{ post.title }}-1.jpg" />
+          <img src="/assets/{{ post.lang-ref }}-1.jpg" />
           <h3>{{ post.title | escape }}</h3>
           <span class="post-meta">{{ post.difficulty }} · {{ post.duration }} · {{ post.region }}</span>
         </a>
@@ -29,6 +30,7 @@ layout: default
           {{ post.excerpt }}
         {%- endif -%}
       </li>
+      {%- endif -%}
       {%- endfor -%}
     </ul>
   </div>

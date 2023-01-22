@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  Shek Pik, Fun Lau, Tai O Hike
+lang-ref:  Shek Pik, Fun Lau, Tai O Hike
 date:   2018-03-12
 region: Lantau
 trail: Lantau Trail

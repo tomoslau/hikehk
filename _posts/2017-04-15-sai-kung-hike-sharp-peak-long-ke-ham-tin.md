@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  Sai Kung Hike - Sharp Peak, Long Ke, Ham Tin
+lang-ref:  Sai Kung Hike - Sharp Peak, Long Ke, Ham Tin
 date:   2017-04-15
 region: New Territories
 trail: Maclehose Trail

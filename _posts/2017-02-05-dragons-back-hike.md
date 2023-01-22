@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  Dragon's Back Hike
+lang-ref:  Dragon's Back Hike
 date:   2017-02-05
 region: Hong Kong Island
 trail: Hong Kong Trail

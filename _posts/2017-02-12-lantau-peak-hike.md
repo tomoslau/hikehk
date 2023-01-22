@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  Lantau Peak Hike
+lang-ref:  Lantau Peak Hike
 date:   2017-02-12
 region: Lantau
 trail: Lantau Trail

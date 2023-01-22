@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  Kowloon Reservoirs Hike
+lang-ref:  Kowloon Reservoirs Hike
 date:   2017-04-22
 region: New Territories
 trail: Maclehose Trail

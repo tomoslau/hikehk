@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  Tai Tam Reservoir Hike
+lang-ref:  Tai Tam Reservoir Hike
 date:   2017-03-12
 region: Hong Kong Island
 trail: Hong Kong Trail

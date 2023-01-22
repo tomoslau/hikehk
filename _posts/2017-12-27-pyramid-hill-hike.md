@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  Pyramid Hill Hike
+lang-ref:  Pyramid Hill Hike
 date:   2017-12-27
 region: New Territories
 trail: Maclehose Trail

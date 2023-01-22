@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Pat Sin Leng Hike
+lang-ref: Pat Sin Leng Hike
 date: 2018-12-29
 region: New Territories
 trail: Wilson Trail

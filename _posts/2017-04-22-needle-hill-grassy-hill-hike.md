@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  Needle Hill and Grassy Hill Hike
+lang-ref:  Needle Hill and Grassy Hill Hike
 date:   2017-04-22
 region: New Territories
 trail: Maclehose Trail
