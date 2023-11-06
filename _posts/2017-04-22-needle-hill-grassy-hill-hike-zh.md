@@ -1,7 +1,7 @@
 ---
 layout: post
 lang: zh
-title: 針山和草山遠足
+title: 針山和草山行山路線
 lang-ref:  Needle Hill and Grassy Hill Hike
 date:   2017-04-22
 region: 新界
@@ -9,7 +9,7 @@ trail: 麥理浩徑
 section: 7
 start: 城門
 end: 鉛礦山口
-difficulty: 中等
+difficulty: 中級
 duration: 2.5小時
 distance: 6.2公里
 rating: 5

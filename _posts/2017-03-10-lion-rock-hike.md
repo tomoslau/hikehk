@@ -18,7 +18,7 @@ mid: 1LmHdym39ktAoR15bN30JX0q4sIE
 
 Maclehose Trail Section 5 stretches across the mountain range between East New Territories and Kowloon. The hike is rated medium difficulty and takes three hours to complete. Hiking up to Lion Rock Head is not part of the trail, but is a popular path for hikers due the iconic rocks and high vantage point it offers. Hiking up to Lion Rock Head increases the difficulty to hard and adds an additional hour to the hike.
 
-The starting point of Section 5 isn’t accessible by transportation. If you’re not continuing from Section 4, you can walk to various points of the trail from the MTR stations on the Kwun Tong (green) line. Expect an additional hour or two for getting there. For more detail, scroll down to the transportation section below.
+The starting point of Section 5 isn’t accessible by transportation. If you’re not continuing from Section 4, you can walk to various points of the trail from the MTR stations on the Kwun Tong (green) line. Expect an additional hour or two for getting there.
 
 ![Maclehose Trail Section 5’s gradual ascent.](/assets/{{ page.title }}-2.jpg)
 
@@ -51,8 +51,10 @@ Lion Rock is known for the incidents where hikers fall to their death. It is kno
 
 ### Going to the starting point
 
--
+The starting point of Section 5 isn’t accessible by transportation. If you’re not continuing from Section 4, you can walk to various points of the trail from the MTR stations on the Kwun Tong (green) line. Expect an additional hour or two for getting there. 
 
 ### Leaving the finishing point
 
--
+- Shek Lei Pui Reservoir bus stop on Tai Po Road
+- KMB Bus 72 to Tai Po via Sha Tin or Cheung Shan Wan
+- KMB Bus 81 to Sha Tin or Kowloon

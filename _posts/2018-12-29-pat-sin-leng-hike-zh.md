@@ -2,14 +2,14 @@
 layout: post
 lang: zh
 lang-ref: Pat Sin Leng Hike
-title: 八仙嶺遠足
+title: 八仙嶺行山路線
 date: 2018-12-29
 region: 新界
 trail: 衛奕信徑
 section: 8-9
 start: 太和
 end: 大美督
-difficulty: 難
+difficulty: 高級
 duration: 7小時
 distance: 20公里
 rating: 5

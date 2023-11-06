@@ -1,7 +1,7 @@
 ---
 layout: post
 lang: zh
-title: 孖崗山和紫羅蘭山遠足
+title: 孖崗山和紫羅蘭山行山路線
 lang-ref: The Twins Hike and Violet Hill
 date: 2018-08-09
 region: 香港島
@@ -9,7 +9,7 @@ trail: 衛奕信徑
 section: 1
 start: 黃泥湧水塘
 end: 赤柱峽道
-difficulty: 難
+difficulty: 高級
 duration: 3小時
 distance: 4.8公里
 rating: 5

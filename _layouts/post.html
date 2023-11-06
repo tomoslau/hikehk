@@ -33,7 +33,11 @@ layout: default
     </div>
     <hr>
     <div class="section">
+      {%- if page.lang == 'zh' -%}
+      <h2>探索更多行山路線</h2>
+      {%- else -%}
       <h2>Explore more hikes</h2>
+      {%- endif -%}
       <ul class="post-list">
         {%- for post in site.posts limit:6 -%}
         {%- if page.lang == 'zh' -%}
@@ -66,7 +70,11 @@ layout: default
         {%- endfor -%}
       </ul>
       <div class="section" style="text-align:center">
+        {%- if page.lang == 'zh' -%}
+        <a class="btn" href="{{ "/zh" | relative_url }}">查看所有行山路線</a>
+        {%- else -%}
         <a class="btn" href="{{ "/" | relative_url }}">View all hikes</a>
+        {%- endif -%} 
       </div>
     </div>
 
