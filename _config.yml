@@ -17,7 +17,7 @@ title: Hike Hong Kong
 email: hikehkco@gmail.com
 description: Best hiking trails in Hong Kong with trail maps, transportation instructions, reviews, and photos.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://hikehk.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://hikehk.com" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 markdown: kramdown
