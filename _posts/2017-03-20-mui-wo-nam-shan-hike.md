@@ -16,7 +16,7 @@ mid: 1RVhjoXX5tSOj-eSadnfvJ3HxcG4
 ---
 ## Description
 
-Lantau Trail Section 1 is an easy walk from Mui Wo to the Nam Shan, which takes less than an hour to complete. The trail begins at Mui Wo Ferry Pier and heads up South Lantau Road.  The entirety of the trail is the pavement to the right side of the road and there is nothing much to see other than some exquisite Porsche’s cruising by and villages around Mui Wo. Continuing the Lantau Trail to Section 2: Sunset Peak is recommended.
+Lantau Trail Section 1 is an easy walk from Mui Wo to the Nam Shan, which takes less than an hour to complete. The trail begins at Mui Wo Ferry Pier and heads up South Lantau Road.  The entirety of the trail is the pavement to the right side of the road and there is nothing much to see other than some exquisite Porsche’s cruising by and villages around Mui Wo. Continuing the Lantau Trail to [Section 2: Sunset Peak]({% post_url 2017-04-01-sunset-peak-hike %}) is recommended.
 
 ## Hike elevation
 

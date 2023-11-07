@@ -39,7 +39,7 @@ layout: default
       <h2>Explore more hikes</h2>
       {%- endif -%}
       <ul class="post-list">
-        {%- for post in site.posts limit:6 -%}
+        {%- for post in site.posts limit:12 -%}
         {%- if page.lang == 'zh' -%}
           {%- if post.lang == 'zh' -%}
           <li>

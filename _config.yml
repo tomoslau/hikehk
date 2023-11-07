@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Hike Hong Kong 🇭🇰
+title: Hike Hong Kong
 email: hikehkco@gmail.com
 description: Best hiking trails in Hong Kong with trail maps, transportation instructions, reviews, and photos.
 baseurl: "" # the subpath of your site, e.g. /blog

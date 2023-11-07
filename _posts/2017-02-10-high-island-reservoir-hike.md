@@ -48,4 +48,4 @@ Take bus 94 from Sai Kung Bus Terminus towards Wong Shek Pier. Get off at Sheung
 
 ### Leaving the finishing point
 
-There aren’t any bus stops near the ending point. You can call a taxi to pick you up from High Island Reservoir East Dam, walk back to Pak Tam Chung and take the bus back to Sai Kung, or continue walking the Maclehose Trail Section 2.
+There aren’t any bus stops near the ending point. You can call a taxi to pick you up from High Island Reservoir East Dam, walk back to Pak Tam Chung and take the bus back to Sai Kung, or continue walking the [Maclehose Trail Section 2]({% post_url 2017-04-15-sai-kung-hike-sharp-peak-long-ke-ham-tin %}).

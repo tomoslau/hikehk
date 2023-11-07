@@ -20,7 +20,7 @@ Maclehose Trail Section 3 is a difficult hiking trail in West Sai Kung that clim
 
 The elevation gains—especially the last climb to Kai Kung Shan, and mixture of flat steps and rocky surface make this hike difficult to climb. The trail experience is perfect for those who want a challenge.
 
-Make sure you carry plenty of water, especially in the summer and on sunny days, as the majority of the trail is without shade. I recommend at least 4 liters.
+Make sure you carry plenty of water, especially in the summer and on sunny days, as the majority of the trail is without shade. 
 
 ![Cow near the campsite at Cheung Sheung](/assets/{{ page.title }}-2.jpg)
 
@@ -30,7 +30,7 @@ The trail begins at 180m above sea level and ascends to Ngau Yi Shek Shan (Cow E
 
 ![First climb to Ngau Yi Shek Shan](/assets/{{ page.title }}-3.jpg)
 
-Past Ngam Tau Shan, descend gradually to a campground at Cheung Sheung at 300m elevation. There’s a store there opened on weekends. Plenty of cows roam around the grassy area.
+Past Ngam Tau Shan, descend gradually to a campground at Cheung Sheung at 300m elevation. There’s a store there open on weekends. Plenty of cows roam around the grassy area.
 
 The trail drops to 200m, before climbing the second mountain to 260m (highest point of the trail but not the peak.) Along the plateau, facing west, are views of Three Fathoms Cove and the highrises of Ma On Shan peeking behind the foot of the mountains.
 
