@@ -4,7 +4,6 @@ layout: default
 <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
   <div class="wrapper">
     <header class="post-header">
-      <img src="/assets/{{ page.lang-ref }}-1.jpg" alt="{{ page.title }}">
       <h1 class="post-title p-name" itemprop="name headline">{{ page.title | escape }}</h1>
       <p class="post-meta">
         <span>{{ page.difficulty }}</span> · <span>{{ page.duration }}</span> · <span>{{ page.distance }}</span> · <span>{{ page.trail }} Section {{ page.section }} · {{ page.region }}</span>
@@ -16,6 +15,7 @@ layout: default
         {%- if page.author -%}
           • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span class="p-author h-card" itemprop="name">{{ page.author }}</span></span>
         {%- endif -%}</p>
+      <img src="/assets/{{ page.lang-ref }}-1.jpg" alt="{{ page.title }}">
       <h2>
         {%- if page.lang == 'zh' -%}
           地圖
