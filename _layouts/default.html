@@ -1,20 +1,31 @@
 <!DOCTYPE html>
-<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+<html lang="{{ page.lang | default: site.lang | default: " en" }}">
 
-  {%- include head.html -%}
+{%- include head.html -%}
 
-  <body>
+<body>
 
-    {%- include header.html -%}
+  {%- include header.html -%}
 
-    <main class="page-content" aria-label="Content">
+  <div class="ad-space">
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4779937146855013"
+    crossorigin="anonymous"></script>
+  <!-- Hike HK Responsive -->
+  <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-4779937146855013" data-ad-slot="9203283484"
+    data-ad-format="auto" data-full-width-responsive="true"></ins>
+  <script>
+    (adsbygoogle = window.adsbygoogle || []).push({});
+  </script>
+  </div>
 
-        {{ content }}
+  <main class="page-content" aria-label="Content">
 
-    </main>
+    {{ content }}
 
-    {%- include footer.html -%}
+  </main>
 
-  </body>
+  {%- include footer.html -%}
+
+</body>
 
 </html>
