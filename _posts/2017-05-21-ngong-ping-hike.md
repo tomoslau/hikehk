@@ -22,13 +22,13 @@ Make sure to also check out the Wisdom Path at the ending point of Section 3 and
 
 Past the village, the trail heads southwest along Ngong Ping Road. By the road is Shek Pik Viewing Point, a windy spot situated right above two cliffs. The trail continues down the road and ends at Sham Wat Road.
 
-![Shek Pik Viewing Point is a windy spot situated above two cliffs.](/assets/{{ page.title }}-2.jpg)
+![Shek Pik Viewing Point is a windy spot situated above two cliffs.](/assets/{{ page.title }}-2.webp)
 
 ## Hike elevation
 
 Section 3 starts at the base of Fung Wong Shan at 460m above sea level. The beginning section ascends to 530m and maintains that altitude along the north side of the village while heading westbound. The trail descends back to 440m at Ngong Ping Piazza.
 
-![The trail circles around Ngong Ping and then cuts through the piazza.](/assets/{{ page.title }}-3.jpg)
+![The trail circles around Ngong Ping and then cuts through the piazza.](/assets/{{ page.title }}-3.webp)
 
 Upon leaving Ngong Ping, the trail descends though the gentle slopes of Ngong Ping Road and Sham Wat Road. The ending point is around 260m above sea level.
 

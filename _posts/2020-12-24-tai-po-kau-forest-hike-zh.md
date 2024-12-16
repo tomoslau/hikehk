@@ -20,7 +20,7 @@ mid: 1v787XhsTQo4vBp-TmmCGGZ-1hTZMjnHg
 
 大埔滘森林擁有一系列美麗的環形路線，海拔在 100-400m 之間，都很容易徒步。 原生保護區野生動物繁茂，茂密的樹木提供陰涼，對於皮膚敏感和脖子短的人來說，這裡是完美的健行地點。 小心猴子🐒，它們可能會偷走你的午餐或嘲笑你的狗。 不同的小路都有明顯的木製標誌，很難錯過。
 
-![大埔滘猴](/assets/{{ page.lang-ref}}-monkey.jpg)
+![大埔滘猴](/assets/{{ page.lang-ref}}-monkey.webp)
 
 環形路線從最短到最長：
 
@@ -29,7 +29,7 @@ mid: 1v787XhsTQo4vBp-TmmCGGZ-1hTZMjnHg
 - <span style="color:brown">啡色路線</span> — 7公里·2.5小時
 - <span style="color:goldenrod">黃色路線</span> — 10公里·3.5小時
 
-![大埔滘森林遠足隨處可見的樹木](/assets/{{ page.lang-ref}}-2.jpg)
+![大埔滘森林遠足隨處可見的樹木](/assets/{{ page.lang-ref}}-2.webp)
 
 ## 健行海拔
 
@@ -37,13 +37,13 @@ mid: 1v787XhsTQo4vBp-TmmCGGZ-1hTZMjnHg
 
 紅色和藍色路線海拔僅 200m，是最短、最輕鬆的健行路線。 啡色和黃色的路線在西南側向 Grassy Hill 延伸，海拔高達 360m。 [針山和草山行山路線]({% post_url 2017-04-22-needle-hill-grassy-hill-hike-zh %}) 也是一次很棒的遠足——更裸露，海拔更高，但景色令人驚嘆。
 
-![所有步道都能看到大埔滘河](/assets/{{ page.lang-ref}}-3.jpg)
+![所有步道都能看到大埔滘河](/assets/{{ page.lang-ref}}-3.webp)
 
 ## 步道表面
 
 大埔滘的小徑大多是泥土和大石頭的混合。 有些路段的岩石比較凹凸不平，但很容易行走。 總的來說，這是一條令人愉快的健行路線。 大埔公路往上的一小段已鋪砌。 儘早走大埔自然教育徑，避開水泥路。
 
-![即使在陽光明媚的日子，大埔滘森林步道也有絕佳的蔭涼](/assets/{{ page.lang-ref}}-4.jpg)
+![即使在陽光明媚的日子，大埔滘森林步道也有絕佳的蔭涼](/assets/{{ page.lang-ref}}-4.webp)
 
 ## 運輸
 

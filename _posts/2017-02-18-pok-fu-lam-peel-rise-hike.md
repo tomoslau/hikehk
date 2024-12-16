@@ -20,19 +20,19 @@ Hong Kong Trail Section 2 starts from Pok Fu Lam Reservoir and runs along the so
 
 The starting point can be easily missed, especially when continuing from Section 1. Look for the blue sign with the Water Supplies Department logo. The open path to the right leads to Pok Fu Lam Reservoir instead.
 
-![The starting point’s signage in blue with the WSD logo.](/assets/{{ page.title }}-2.jpg)
+![The starting point’s signage in blue with the WSD logo.](/assets/{{ page.title }}-2.webp)
 
 ## Hike elevation
 
 The beginning section, near Pok Fu Lam Reservoir, ascents rapidly from 220m above sea level to 260m (H015.) The stairs are steep, but paved. The trail remains quite flat after that. The trail makes a gradual descent to 120m approaching the southmost point.
 
-![The trail gets up close with transmission towers](/assets/{{ page.title }}-3.jpg)
+![The trail gets up close with transmission towers](/assets/{{ page.title }}-3.webp)
 
 ## Trail surface
 
 Most of the trail is paved, with a mix of flat sections and small steps. This allows easy footing, but the rock paving and concrete may be hard on the knees for extended hikes.
 
-![Most of the trail is paved for easy footing](/assets/{{ page.title }}-4.jpg)
+![Most of the trail is paved for easy footing](/assets/{{ page.title }}-4.webp)
 
 ## Transport
 

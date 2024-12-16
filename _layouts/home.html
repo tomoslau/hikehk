@@ -21,7 +21,7 @@ layout: default
       {%- if post.lang != 'zh' -%}
       <li>
         <a class="post-link" href="{{ post.url | relative_url }}">
-          <img src="/assets/{{ post.lang-ref }}-1.jpg" />
+          <img src="/assets/{{ post.lang-ref }}-1.webp"  alt="{{ post.title }}" width="480" height="320"/>
           <h3>{{ post.title | escape }}</h3>
           <span class="post-meta">{{ post.difficulty }} · {{ post.duration }} · {{ post.region }}</span>
         </a>
@@ -43,7 +43,7 @@ layout: default
       {%- for post in posts_easy -%}
       <li>
         <a class="post-link" href="{{ post.url | relative_url }}">
-          <img src="/assets/{{ post.title }}-1.jpg" />
+          <img src="/assets/{{ post.title }}-1.webp"  alt="{{ post.title }}" width="480" height="320"/>
           <h3>
               {{ post.title | escape }}
           </h3>
@@ -65,7 +65,7 @@ layout: default
       {%- for post in posts_medium -%}
       <li>
         <a class="post-link" href="{{ post.url | relative_url }}">
-          <img src="/assets/{{ post.title }}-1.jpg" />
+          <img src="/assets/{{ post.title }}-1.webp"  alt="{{ post.title }}" width="480" height="320"/>
           <h3>
               {{ post.title | escape }}
           </h3>
@@ -87,7 +87,7 @@ layout: default
       {%- for post in posts_hard -%}
       <li>
         <a class="post-link" href="{{ post.url | relative_url }}">
-          <img src="/assets/{{ post.title }}-1.jpg" />
+          <img src="/assets/{{ post.title }}-1.webp" alt="{{ post.title }}" width="480" height="320"/>
           <h3>
               {{ post.title | escape }}
           </h3>

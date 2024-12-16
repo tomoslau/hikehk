@@ -22,9 +22,9 @@ Maclehose Trail Section 4 is one of the hardest sections. The hike is 12.7km and
 
 The initial one-hour climb from Kei Ling Ha is moderate. The walk starts at 160m above sea level and reaches 220m before gradually plateauing around 200-220m. The trail ascends to 540m near Ma On Shan and drops to 400m past the ridge and at Ngong Ping viewing point. The trail continues along the ridges between 320m and 480m, and ends at 420m elevation at Tate’s Cairn (Tai Lo Shan).
 
-![View of Sai Kung from Ma On Shan](/assets/{{ page.title }}-2.jpg)
+![View of Sai Kung from Ma On Shan](/assets/{{ page.title }}-2.webp)
 
-![Ngong Ping Viewing Point](/assets/{{ page.title }}-3.jpg)
+![Ngong Ping Viewing Point](/assets/{{ page.title }}-3.webp)
 
 ## Trail surface
 
@@ -34,7 +34,7 @@ The path at the plateau is made of dirt and small rocks. Walking along the ridge
 
 There are small sections of the hike facing north, where there is lack of sunshine and wind, that are extremely damp and wet, even on a dry day. This, combined with the rocky steps, make it slippery and difficult to walk.
 
-![Rocky part of the trail during the ascent](/assets/{{ page.title }}-4.jpg)
+![Rocky part of the trail during the ascent](/assets/{{ page.title }}-4.webp)
 
 ## Transport
 

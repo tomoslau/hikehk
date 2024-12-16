@@ -20,20 +20,20 @@ Maclehose Trail Section 5 stretches across the mountain range between East New T
 
 The starting point of Section 5 isn’t accessible by transportation. If you’re not continuing from Section 4, you can walk to various points of the trail from the MTR stations on the Kwun Tong (green) line. Expect an additional hour or two for getting there.
 
-![Maclehose Trail Section 5’s gradual ascent.](/assets/{{ page.title }}-2.jpg)
+![Maclehose Trail Section 5’s gradual ascent.](/assets/{{ page.title }}-2.webp)
 
 ## Hike elevation
 
 The starting point at Tate’s Cairn is at a high 400m. From there, there’s a steep ascent to 500m before returning to the 400m level. The trail descents to 300m near Sha Tin Pass, and then ascents to 400m again.
 
-![Continue straight for Maclehose Trail Section 5; turn left for Lion Rock Peak.](/assets/{{ page.title }}-3.jpg)
+![Continue straight for Maclehose Trail Section 5; turn left for Lion Rock Peak.](/assets/{{ page.title }}-3.webp)
 
 ### Lion Rock Head
 To get to Lion Rock Head, take the left path away from Maclehose Trail (marked in the map.) There’s a steep incline that reaches Lion Rock peak at 495m. After that, continue down the path and it will join Maclehose Trail at 300m elevation.
 
 After passing Lion Rock, the trail leads to another mountain with a gradual ascent to 420m, and then descents and maintains at around the 220-240m range. The finishing point at Tai Po road is at 160m elevation.
 
-![Lion Rock ridge.](/assets/{{ page.title }}-4.jpg)
+![Lion Rock ridge.](/assets/{{ page.title }}-4.webp)
 
 ## Trail surface
 
@@ -45,7 +45,7 @@ The 0.5km hike towards Lion Rock Head is steep compared to Maclehose Trail Secti
 ### Danger signs
 Lion Rock is known for the incidents where hikers fall to their death. It is known. Make sure you don’t cross the danger signs placed along the trail.
 
-![One of the many danger signs around Lion Rock.](/assets/{{ page.title }}-5.jpg)
+![One of the many danger signs around Lion Rock.](/assets/{{ page.title }}-5.webp)
 
 ## Transport
 

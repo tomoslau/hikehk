@@ -22,19 +22,19 @@ Maclehose Trail Section 7 is a hike along the ridges in Shing Mun Country Park. 
 
 The hike offers serene views of Shing Mun Reservoir and the mountain ridges. On a clear day, views of West Kowloon and New Territories (from Tsuen Wan to Cheung Sha Wan,) and even the Ting Kau Bridge are visible from the climb to Needle Hill (532m.) On the opposite side, facing east, are views of Tai Wai and Sha Tin with a backdrop of mountains from earlier Maclehose sections, including Lion Rock.
 
-![Shing Mun Reservoir at the beginning of Maclehose Trail 7](/assets/{{ page.title }}-2.jpg)
+![Shing Mun Reservoir at the beginning of Maclehose Trail 7](/assets/{{ page.title }}-2.webp)
 
-![View of Shing Mun Reservoir and West Kowloon/New Territories from Needle Hill](/assets/{{ page.title }}-3.jpg)
+![View of Shing Mun Reservoir and West Kowloon/New Territories from Needle Hill](/assets/{{ page.title }}-3.webp)
 
 Past Needle Hill, the trail continues north towards Grassy Hill at 647m. The climb to Grassy Hill is more gradual compared to Needle Hill. As the name suggests, Grassy Hill is quite grassy, and is home to plenty of cows. At higher elevations, enjoy the views of Tai Po, Fanling, Sheung Shui, and Lo Wu.
 
-![Near the peak of Grassy hill](/assets/{{ page.title }}-4.jpg)
+![Near the peak of Grassy hill](/assets/{{ page.title }}-4.webp)
 
 ## Hike elevation
 
 The hike begins at 200m above sea level. Past Shing Mun Reservoir, the trail climbs moderately to Needle Hill’s peak at 532m.
 
-![Gradual ridges between Needle Hill and Grassy Hill](/assets/{{ page.title }}-5.jpg)
+![Gradual ridges between Needle Hill and Grassy Hill](/assets/{{ page.title }}-5.webp)
 
 The decent from Needle Hill is consistent and gradual. The ridges continue towards Grassy Hill, a low gradient ascent to 647m. The descent from Grassy Hill is the steepest section of the hike, dropping quickly to 420m through continuous steps.
 
@@ -44,7 +44,7 @@ The beginning section near Shing Mun Reservoir has an asphalt road surface with 
 
 During the descent, the path changes to asphalt with low gradient slopes. The asphalt surface continues throughout the ascent of Grassy Hill. The steep descent from Grassy Hill returns to dirt and rock steps.
 
-![Plenty of planes fly over Needle Hill and Grassy Hill](/assets/{{ page.title }}-6.jpg)
+![Plenty of planes fly over Needle Hill and Grassy Hill](/assets/{{ page.title }}-6.webp)
 
 ## Transport
 

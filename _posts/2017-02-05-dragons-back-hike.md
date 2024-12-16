@@ -28,13 +28,13 @@ After Shek O Peak, the trail maintains at roughly the same elevation before desc
 
 The hiking trail gradually descents to sea level until reaching the finishing point—Big Wave Bay Beach.
 
-![The path along the ridge that leads to Shek O Peak.](/assets/{{ page.title }}-2.jpg)
+![The path along the ridge that leads to Shek O Peak.](/assets/{{ page.title }}-2.webp)
 
 ## Trail surface
 
 The beginning ascent of Dragon’s Back trail has a lot of rock steps. The path along the ridges are mostly dirt.
 
-![Dirt and steps make up most of the Section 8’s trail surface.](/assets/{{ page.title }}-3.jpg)
+![Dirt and steps make up most of the Section 8’s trail surface.](/assets/{{ page.title }}-3.webp)
 
 ## Transport
 

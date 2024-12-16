@@ -20,13 +20,13 @@ Hong Kong Trail Section 6 begins at Mount Parker Road, runs along the east side 
 
 At Tai Tam Byewash Reservoir (the second reservoir in the hike,) I was surprised to see koi fish. Koi in a reservoir is something I’ve never seen before. I wonder what happened here.
 
-![Koi in Tam Tam Byewash Reservoir.](/assets/{{ page.title }}-2.jpg)
+![Koi in Tam Tam Byewash Reservoir.](/assets/{{ page.title }}-2.webp)
 
 ## Hike elevation
 
 Section 6 starts at 340m above sea level. The trail slowly descents to 160m at Tai Tam Reservoir.
 
-![Tai Tam Reservoir Dam: reservoir to the right, greenery to the left.](/assets/{{ page.title }}-3.jpg)
+![Tai Tam Reservoir Dam: reservoir to the right, greenery to the left.](/assets/{{ page.title }}-3.webp)
 
 The rest of the trail from Tam Tam Reservoir to Tai Tam Road further descents to 60m. The low gradient and relatively flat terrain makes it one of the easiest hikes in Hong Kong.
 
@@ -34,7 +34,7 @@ The rest of the trail from Tam Tam Reservoir to Tai Tam Road further descents to
 
 The first half of the hike’s surface is made of concrete and asphalt. Shortly after crossing the Tai Tam bridges, the trail makes a left turn leaving Tam Tam Reservoir Road. The path onward transitions to a more comfortable dirt path with minimal rock steps.
 
-![Dirt surface beyond Tai Tam Reservoirs.](/assets/{{ page.title }}-4.jpg)
+![Dirt surface beyond Tai Tam Reservoirs.](/assets/{{ page.title }}-4.webp)
 
 ## Transport
 

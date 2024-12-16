@@ -26,7 +26,7 @@ The trail begins at sea level (Mui Wo Ferry Pier) and slowly ascents to 140m ele
 
 Pavement all the way. No steps.
 
-![The wooden gateway marks the end of Section 1 and beginning of Section 2.](/assets/{{ page.title }}-2.jpg)
+![The wooden gateway marks the end of Section 1 and beginning of Section 2.](/assets/{{ page.title }}-2.webp)
 
 ## Transport
 

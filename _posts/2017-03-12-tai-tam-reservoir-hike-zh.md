@@ -21,13 +21,13 @@ mid: 1YC5QxzbbZua4blYpeD-w9GWKqlw
 
 在大潭白水水庫（徒步旅行的第二個水庫），我很驚訝地看到了錦鯉。 水庫裡的錦鯉是我以前從未見過的。 我想知道這裡發生了什麼事。
 
-![Tam Tam Byewash 水庫的錦鯉。](/assets/{{ page.lang-ref }}-2.jpg)
+![Tam Tam Byewash 水庫的錦鯉。](/assets/{{ page.lang-ref }}-2.webp)
 
 ## 健行海拔
 
 第六段起點海拔340m。 步道在大潭水塘緩緩下降至160m。
 
-![大潭水庫大壩：右邊是水庫，左邊是綠地。](/assets/{{ page.lang-ref }}-3.jpg)
+![大潭水庫大壩：右邊是水庫，左邊是綠地。](/assets/{{ page.lang-ref }}-3.webp)
 
 餘下的徑由潭潭水塘至大潭路，進一步下坡至60m。 低坡度和相對平坦的地形使其成為香港最容易的徒步旅行之一。
 
@@ -35,7 +35,7 @@ mid: 1YC5QxzbbZua4blYpeD-w9GWKqlw
 
 徒步旅行的前半部分錶面由混凝土和瀝青構成。 穿過大潭大橋後不久，步道左轉離開潭潭水塘路。 繼續前進的道路過渡到更舒適的土路，岩石台階最少。
 
-![大潭水塘外的泥土表面。](/assets/{{ page.lang-ref }}-4.jpg)
+![大潭水塘外的泥土表面。](/assets/{{ page.lang-ref }}-4.webp)
 
 ## 運輸
 

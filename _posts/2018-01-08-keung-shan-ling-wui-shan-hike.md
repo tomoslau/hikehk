@@ -22,7 +22,7 @@ Lantau Trail Section 5 begins at Keng Shan Road by the Sham Wat Road bus stop an
 
 The hike starts at 260m elevation. The trail moderately climbs to the first peak Kwun Yam Shan at 434m. It descends gradually to a ridge at 320m and then ascends to Keung Shan at 459m. Past Keung Shan, the trail drops and rises in a low gradient towards Ling Wui Shan at 490m. The initial descent from Ling Wui Shan is steep and difficult. The trail continues downhill towards Man Cheung Po / Tai O and ends at Lung Tsai Ng Yuen at 220m.
 
-![View from the peak of Ling Wui Shan at 490m](/assets/{{ page.title }}-2.jpg)
+![View from the peak of Ling Wui Shan at 490m](/assets/{{ page.title }}-2.webp)
 
 ## Trail surface
 

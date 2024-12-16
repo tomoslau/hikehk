@@ -5,9 +5,9 @@
     {%- assign page_paths = site.header_pages | default: default_paths -%}
     
     {%- if page.lang == 'zh' -%}
-    <a class="site-title" rel="author" href="{{ "/zh" | relative_url }}"><img src="{{ "/assets/logo.svg" | relative_url }}" width="32px" style="border-radius:0px;"> 香港行山</a>
+    <a class="site-title" rel="author" href="{{ "/zh" | relative_url }}"><img src="{{ "/assets/logo.svg" | relative_url }}" width="32px" style="border-radius:0px;" alt="Hike HK logo"> 香港行山</a>
     {%- else -%}
-    <a class="site-title" rel="author" href="{{ "/" | relative_url }}"><img src="{{ "/assets/logo.svg" | relative_url }}" width="32px" style="border-radius:0px;"> Hike Hong Kong</a>
+    <a class="site-title" rel="author" href="{{ "/" | relative_url }}"><img src="{{ "/assets/logo.svg" | relative_url }}" width="32px" style="border-radius:0px;" alt="Hike HK logo"> Hike Hong Kong</a>
     {%- endif -%}
 
     <!-- {%- if page_paths -%}

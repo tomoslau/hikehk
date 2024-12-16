@@ -22,13 +22,13 @@ Hong Kong Trail Section 7 is an easy, flat, concrete trail that runs from Tai Ta
 
 Section 7 is extremely flat and easy to walk. The elevation remains at 40-60m for the entire trail until the end near To Tei Wan, where there is a high ascent to 140m that leads to Shek O Road—the finishing point of Section 7 and starting point of Section 8, Dragon’s Back Trail.
 
-![View of Red Hill and Stanley from Section 7.](/assets/{{ page.title }}-2.jpg)
+![View of Red Hill and Stanley from Section 7.](/assets/{{ page.title }}-2.webp)
 
 ## Trail surface
 
 90% of the trail is a narrow strip of concrete with railings on the left side. There’s a small section dirt path approaching To Tei Wan, and after that is a series of concrete steps that leads to the finishing point at Shek O Road bus stop.
 
-![To Tei Wan Beach.](/assets/{{ page.title }}-3.jpg)
+![To Tei Wan Beach.](/assets/{{ page.title }}-3.webp)
 
 ## Transport
 

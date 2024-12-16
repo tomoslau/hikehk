@@ -22,7 +22,7 @@ Hong Kong Trail Section 3 is beautiful to the eyes, the ears, and the feet. The 
 
 The hiking trail’s ascents and descents are slow, making it easy and comfortable to hike. The starting point at Peel Rise is 140m above sea level. There’s a gradual ascent to 220m, followed by a gradual descent back to 140m at the southmost point of the trail. The rest of the hike remains around the 180-220m region.
 
-![The overall trail’s surface is flat, except for this massive rock.](/assets/{{ page.title }}-2.jpg)
+![The overall trail’s surface is flat, except for this massive rock.](/assets/{{ page.title }}-2.webp)
 
 ## Trail surface
 

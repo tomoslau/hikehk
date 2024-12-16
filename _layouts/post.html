@@ -15,7 +15,7 @@ layout: default
         {%- if page.author -%}
           • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span class="p-author h-card" itemprop="name">{{ page.author }}</span></span>
         {%- endif -%}</p>
-      <img src="/assets/{{ page.lang-ref }}-1.jpg" alt="{{ page.title }}">
+      <img src="/assets/{{ page.lang-ref }}-1.webp" alt="{{ page.title }}">
       <h2>
         {%- if page.lang == 'zh' -%}
           地圖
@@ -44,7 +44,7 @@ layout: default
           {%- if post.lang == 'zh' -%}
           <li>
             <a class="post-link" href="{{ post.url | relative_url }}">
-              <img src="/assets/{{ post.lang-ref }}-1.jpg" />
+              <img src="/assets/{{ post.lang-ref }}-1.webp" />
               <h3>{{ post.title | escape }}</h3>
               <span class="post-meta">{{ post.difficulty }} · {{ post.duration }} · {{ post.region }}</span>
             </a>
@@ -57,7 +57,7 @@ layout: default
         {%- if post.lang != 'zh' -%}
         <li>
           <a class="post-link" href="{{ post.url | relative_url }}">
-            <img src="/assets/{{ post.lang-ref }}-1.jpg" />
+            <img src="/assets/{{ post.lang-ref }}-1.webp" />
             <h3>{{ post.title | escape }}</h3>
             <span class="post-meta">{{ post.difficulty }} · {{ post.duration }} · {{ post.region }}</span>
           </a>

@@ -21,13 +21,13 @@ The Twins and Violet Hill hike is one of the hardest hikes in Hong Kong. It's pe
 
 The trail starts from Parkview/Wong Nai Chung Reservoir, goes up Violet Hill, back down and then up The Twins, and finally down to Stanley Gap Road, where you can catch a bus or walk to Stanley and relax or grab some food.
 
-![View of Parkview Heights and Island cityscape from the initial ascent to Violet Hill from Wong Nai Chung Reservoir](/assets/{{ page.title}}-2.jpg)
+![View of Parkview Heights and Island cityscape from the initial ascent to Violet Hill from Wong Nai Chung Reservoir](/assets/{{ page.title}}-2.webp)
 
 ## Hike elevation
 
 The bus stop at Wong Nai Chung Gap is around 200m above sea level. The first ascent to Violet Hill peak reaches 400m elevation, and then dips down to 140m at the valley parallel to Repulse Bay. The Twins peaks are roughly 340m and 360m. The trail ends at 100m in Stanley Gap Road. The steepness up and down both mountains are similar.
 
-![Halfway through the hike, past Violet Hill and facing the Twins](/assets/{{ page.title }}-3.jpg)
+![Halfway through the hike, past Violet Hill and facing the Twins](/assets/{{ page.title }}-3.webp)
 
 ## Trail surface
 

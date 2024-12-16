@@ -23,7 +23,7 @@ mid: 1g-rl-9n6Wh1G7_gQ0As8grxEAtE
 
 與港島徑的其餘部分相比，第一段相當平坦。 它從海拔 400m 開始，一直保持到徒步的後半程，下降到 200m-300m。 H013 附近有一條短而陡的步道。 這條步道可以在一個半小時​​內以中等速度完成。
 
-![Mount High West 周圍的平坦小徑，有泥土表面和大量提供遮蔭的樹木](/assets/{{ page.lang-ref }}-2.jpg)
+![Mount High West 周圍的平坦小徑，有泥土表面和大量提供遮蔭的樹木](/assets/{{ page.lang-ref }}-2.webp)
 
 ## 步道表面
 

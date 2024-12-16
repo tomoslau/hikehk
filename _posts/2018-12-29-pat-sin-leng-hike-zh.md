@@ -22,7 +22,7 @@ mid: 1JYZNRY166X5pH6ZHaxxmOPUV4Vs7msUi
 
 如需 5 小時的短途徒步旅行，請選擇從鶴頭出發的路線。 這條路經過鶴頭水塘后與衛勝徑匯合。
 
-![山脊峭壁](/assets/{{ page.lang-ref}}-2.jpg)
+![山脊峭壁](/assets/{{ page.lang-ref}}-2.webp)
 
 正如它的名字一樣，八仙嶺徒步旅行將徒步旅行者提升到眾神的嚴酷境界。 那些願意冒著刺骨的寒風和陡峭的斜坡的人會發現一條穿過令人驚嘆的 V 形山谷的路徑，大埔的全景，以及對大自然寧靜的新發現。
 
@@ -46,7 +46,7 @@ mid: 1JYZNRY166X5pH6ZHaxxmOPUV4Vs7msUi
 
 到大美督的下降幅度適中。
 
-![慈山寺及大埔景觀](/assets/{{ page.lang-ref }}-3.jpg)
+![慈山寺及大埔景觀](/assets/{{ page.lang-ref }}-3.webp)
 
 ## 步道表面
 

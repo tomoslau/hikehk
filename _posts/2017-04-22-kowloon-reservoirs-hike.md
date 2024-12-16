@@ -24,11 +24,11 @@ Maclehose Trail Section 6 begins at Tai Po Road, by Shek Lei Pui Reservoir, just
 
 The starting point at Golden Hill Road is 160m above sea level. Past the first dam between Kowloon Baywash and Kowloon Reservoir, the trail gradually ascends to Kam Shan at 280m elevation.
 
-![Starting point of Maclehose Trail 6 at Golden Hill Road](/assets/{{ page.title }}-2.jpg)
+![Starting point of Maclehose Trail 6 at Golden Hill Road](/assets/{{ page.title }}-2.webp)
 
 From Kam Shan, the trail descends to 220m. Upon leaving Golden Hill Road, the trail rises steadily to 260m through a series of rock steps. The city view of Kwai Chung covers the west side of the trail, and the Lower Shing Mun Reservoir to the right. The trail comes to an end at 200m in the Shing Mun BBQ area, a popular site for locals and tourists.
 
-![City view of Kwai Chung to the west of the trail](/assets/{{ page.title }}-3.jpg)
+![City view of Kwai Chung to the west of the trail](/assets/{{ page.title }}-3.webp)
 
 ## Trail surface
 
@@ -36,7 +36,7 @@ The first two-thirds of the trail along Golden Hill Road is entirely asphalt wit
 
 The last third—upon exiting Golden Hill Road—transitions into rock steps and dirt path. The steps are low at first, then gets steeper as the elevation increases. The surface is flat overall and easy to walk.
 
-![The rock steps and dirt path upon leaving Golden Hill Road](/assets/{{ page.title }}-4.jpg)
+![The rock steps and dirt path upon leaving Golden Hill Road](/assets/{{ page.title }}-4.webp)
 
 ## Transport
 

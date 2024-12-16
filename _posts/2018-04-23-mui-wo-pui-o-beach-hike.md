@@ -21,13 +21,13 @@ The hike from Mui Wo to Pui O beach features views of the surrounding ocean sout
 
 Make sure to bring plenty of water on a sunny day, as the hiking path is quite bare and there is few shaded resting spots.
 
-![View from Tai Ngau Wu Teng, the highest point of the hike](/assets/{{ page.title}}-2.jpg)
+![View from Tai Ngau Wu Teng, the highest point of the hike](/assets/{{ page.title}}-2.webp)
 
 ## Hike elevation
 
 The maximum elevation of this hike is roughly 260m above sea level at Tai Ngau Wu Teng. The ascent and descent are moderate. Areas near the start and end of the hike are flat and easy to walk.
 
-![Rocky steps of the trail](/assets/{{ page.title }}-3.jpg)
+![Rocky steps of the trail](/assets/{{ page.title }}-3.webp)
 
 ## Trail surface
 

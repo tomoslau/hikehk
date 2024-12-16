@@ -25,7 +25,7 @@ mid: 1sk1YLRZFj48furF29y_DWgK3ey4
 
 ⚠ 這次健行的起點距離最近的公共交通新屋家（距離大埔穎地鐵站 5 分鐘小巴車程）步行約 1-2 小時。
 
-![遠處新界西北及深圳景色](/assets/{{ page.lang-ref }}-2.jpg)
+![遠處新界西北及深圳景色](/assets/{{ page.lang-ref }}-2.webp)
 
 ## 健行海拔
 
@@ -37,7 +37,7 @@ mid: 1sk1YLRZFj48furF29y_DWgK3ey4
 
 山西南側的道路（允許車輛通行）蜿蜒而下，以補償陡峭程度。 這條步道在海拔480m處結束。 整體下降還是比較輕鬆的。
 
-![大帽山頂氣象站封閉區](/assets/{{ page.lang-ref }}-3.jpg)
+![大帽山頂氣象站封閉區](/assets/{{ page.lang-ref }}-3.webp)
 
 ## 步道表面
 

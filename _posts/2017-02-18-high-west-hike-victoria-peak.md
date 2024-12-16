@@ -22,7 +22,7 @@ Hong Kong Trail Section 1 begins at The Peak and ends at Pok Fu Lam Reservoir. I
 
 Section 1 is quite flat compared to the rest of the Hong Kong Trail. It starts at 400m above sea level and remains so until the second half of the hike, where there is a descent to 200m-300m. There’s a short, steep walk near H013. The trail can be completed within one and a half hours at a moderate pace.
 
-![Flat trail around Mount High West with dirt surface and plenty of trees that provide shade](/assets/{{ page.title }}-2.jpg)
+![Flat trail around Mount High West with dirt surface and plenty of trees that provide shade](/assets/{{ page.title }}-2.webp)
 
 ## Trail surface
 

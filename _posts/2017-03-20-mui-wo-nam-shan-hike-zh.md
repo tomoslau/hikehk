@@ -27,7 +27,7 @@ mid: 1RVhjoXX5tSOj-eSadnfvJ3HxcG4
 
 一路鋪路面。 沒有步驟。
 
-![木製大門標誌著第 1 部分的結束和第 2 部分的開始。](/assets/{{ page.lang-ref }}-2.jpg)
+![木製大門標誌著第 1 部分的結束和第 2 部分的開始。](/assets/{{ page.lang-ref }}-2.webp)
 
 ## 運輸
 

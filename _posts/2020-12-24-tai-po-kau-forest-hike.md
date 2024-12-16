@@ -19,7 +19,7 @@ mid: 1v787XhsTQo4vBp-TmmCGGZ-1hTZMjnHg
 
 Tai Po Kau forest offers a range of beautiful circular routes that are all easy to hike with elevations between 100-400m. The native reserve is lush with wildlife, and the dense trees provide shade, making it a perfect hike for those with sensitive skin and short necks. Beware of monkeys 🐒 (especially near the brown and yellow walks) who may steal your lunch or taunt your dog, and bird watchers’ telephoto lens and expensive gear that may get in your way. The different paths are marked by distinct wooden signs throughout the trail that are difficult to miss. 
 
-![Tai Po Kau monkey](/assets/{{ page.title}}-monkey.jpg)
+![Tai Po Kau monkey](/assets/{{ page.title}}-monkey.webp)
 
 The circular routes from shortest to longest:
 
@@ -28,7 +28,7 @@ The circular routes from shortest to longest:
 - <span style="color:brown">Brown walk</span> — 7km · 2.5h
 - <span style="color:goldenrod">Yellow walk</span> — 10km · 3.5h
 
-![Trees everywhere in the Tai Po Kau forest hike](/assets/{{ page.title}}-2.jpg)
+![Trees everywhere in the Tai Po Kau forest hike](/assets/{{ page.title}}-2.webp)
 
 ## Hike elevation
 
@@ -36,13 +36,13 @@ The walk up to the starting point from Tai Po Road (Chung Tsai Yuen) is less tha
 
 The red and blue walks barely touch 200m of elevation, making them the shortest and easiest hikes. The brown and yellow hikes goes up to 360m of elevation at the South West side towards Grassy Hill. The [Needle Hill and Grassy Hill Hike]({% post_url 2017-04-22-needle-hill-grassy-hill-hike %}) is also a great hike — more bare and more elevation, but the views are amazing.
 
-![The Tai Po Kau river to be seen in all of the walks](/assets/{{ page.title}}-3.jpg)
+![The Tai Po Kau river to be seen in all of the walks](/assets/{{ page.title}}-3.webp)
 
 ## Trail surface
 
 The trails at Tai Po Kau are mostly a mix of dirt and large, even rocks. Some sections have more uneven rocks but they’re quite easy to walk on. Overall an enjoyable trail surface to hike. The short section up from Tai Po Road is paved. Take the Tai Po Nature Trail early on to avoid the concrete road.
 
-![Even on a sunny day, the Tai Po Kau Forest Walks have excellent shade](/assets/{{ page.title}}-4.jpg)
+![Even on a sunny day, the Tai Po Kau Forest Walks have excellent shade](/assets/{{ page.title}}-4.webp)
 
 ## Transport
 

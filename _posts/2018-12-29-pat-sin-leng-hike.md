@@ -21,7 +21,7 @@ The Cloudy Hill-Wong Leng-Pat Sin Leng hike is a 7-hour hike for the experienced
 
 For a shorter 5-hour hike, opt for a starting route from Hok Tau. The path joins Wilson Trail past Hok Tau Reservoir. 
 
-![Steep cliffs along the ridge](/assets/{{ page.title}}-2.jpg)
+![Steep cliffs along the ridge](/assets/{{ page.title}}-2.webp)
 
 True to its namesake, the Pat Sin Leng hike elevates hikers to the harsh realms of the gods. Those who are willing to brave the biting winds and precipitous slope will discover a path through stunning v-shaped valleys, panoramic views of Tai Po, and a newfound appreciation of nature’s tranquility.
 
@@ -45,7 +45,7 @@ Pat Sin Leng - a few sharp ascents and descents along the ridge:
 
 The descent down to Tai Mei Tuk is moderate.
 
-![Views of Tsz Shan Monastery and Tai Po](/assets/{{ page.title }}-3.jpg)
+![Views of Tsz Shan Monastery and Tai Po](/assets/{{ page.title }}-3.webp)
 
 ## Trail surface
 

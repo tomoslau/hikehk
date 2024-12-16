@@ -29,13 +29,13 @@ mid: 1kVFTNiwgwdwVUM_bkRcrP6Ay6dk
 
 健行路線逐漸下降至海平面，直到到達終點——大浪灣海灘。
 
-![通往石澳峰的山脊小路](/assets/{{ page.lang-ref }}-2.jpg)
+![通往石澳峰的山脊小路](/assets/{{ page.lang-ref }}-2.webp)
 
 ## 步道表面
 
 龍脊步道的起始上坡有許多石階。 沿著山脊的小路大部分都是泥土。
 
-![第 8 區步道表面的大部分是泥土和台階。](/assets/{{ page.lang-ref }}-3.jpg)
+![第 8 區步道表面的大部分是泥土和台階。](/assets/{{ page.lang-ref }}-3.webp)
 
 ## 運輸
 

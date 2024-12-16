@@ -18,13 +18,13 @@ mid: 1ppBUUGItvhlf76abBurWg9EM4qU
 
 The first section of the Maclehose Trail is a flat and easy hike. The trail starts at the end of Tai Mong Zai Road in Sai Kung and heads south along the west side of the serene High Island Reservoir. There are two dams in the trail: West Dam near the halfway point, and East Dam at the end of the trail. The East Dam features a view of the reservoir to the west, and the South China Sea to the east. The road parrallel to the East Dam is filled with gigantic T/H-shaped breakwater stone structions that protect the coast. It’s a popular photo taking spot and you’ll see plenty of Instagram models there.
 
-![View of High Island Reservoir.](/assets/{{ page.title }}-2.jpg)
+![View of High Island Reservoir.](/assets/{{ page.title }}-2.webp)
 
 ## Hexagonal rock columns
 
 Hexagonal volcanic rock columns surround the East Dam area. These columns are the most beautiful geological structures I’ve ever seen in Hong Kong. The orange vibrance, organic-yet-geometric forms are absolutely beautiful. The S-shaped curves were formed 140 million years ago by the influence of earthquakes, when the columns were still semi-solid.
 
-![Magnificent S-shaped hexagonal rock columns.](/assets/{{ page.title }}-3.jpg)
+![Magnificent S-shaped hexagonal rock columns.](/assets/{{ page.title }}-3.webp)
 
 ## East Dam sea cave
 
@@ -38,7 +38,7 @@ Section 1 starts at almost sea level—it’s literally next to a river that’s
 
 The majority of the trail is paved with concrete and there is minimal dirt surfaces. The trail is easily walkable with casual or running shoes.
 
-![East Dam facing east: breakwaters, and South China Sea beyond.](/assets/{{ page.title }}-4.jpg)
+![East Dam facing east: breakwaters, and South China Sea beyond.](/assets/{{ page.title }}-4.webp)
 
 ## Transport
 

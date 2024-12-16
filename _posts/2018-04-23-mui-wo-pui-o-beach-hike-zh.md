@@ -22,13 +22,13 @@ mid: 1pH76qL53rfl6CWzglg-fpVLuehtWbxQG
 
 請務必在陽光明媚的日子帶上充足的水，因為遠足路徑非常光禿禿，而且幾乎沒有陰涼的休息點。
 
-![健行最高點大牛湖登的景色](/assets/{{ page.lang-ref}}-2.jpg)
+![健行最高點大牛湖登的景色](/assets/{{ page.lang-ref}}-2.webp)
 
 ## 健行海拔
 
 這次健行之旅的最高海拔約為大牛湖騰海拔260m。 上升和下降是溫和的。 健行起點和終點附近的區域平坦且易於行走。
 
-![小路的岩石階梯](/assets/{{ page.lang-ref }}-3.jpg)
+![小路的岩石階梯](/assets/{{ page.lang-ref }}-3.webp)
 
 ## 步道表面
 

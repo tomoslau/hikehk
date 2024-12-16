@@ -24,21 +24,21 @@ On cloudy days, most of the trail is covered in clouds, which creates a mysterio
 
 The trail starts at Pak Kung Au at 320m above sea level. The majority of the trail is a fairly straight path that heads west towards Lantau Peak. Lantau Peak is 934m above sea level, which makes it a 600m+ ascent. It may seem a lot for a two-hour hike, but the ascent is gradual. Walk at a comfortable, constant pace, and make sure to bring plenty of water.
 
-![Lantau Peak at 934m above sea level.](/assets/{{ page.title }}-2.jpg)
+![Lantau Peak at 934m above sea level.](/assets/{{ page.title }}-2.webp)
 
 At the peak, there is a shelter, which is usually filled with trash. The descent down to Ngong Ping is a lot steeper than the ascent. The slope on the west side of Lantau Peak is more than double of the east.
 
-![View from Lantau Peak descent.](/assets/{{ page.title }}-3.jpg)
+![View from Lantau Peak descent.](/assets/{{ page.title }}-3.webp)
 
 ## Trail surface
 
 Flat rock steps cover most of the ascents and descents of Lantau Trail Section 3. There are some dirt paths along flatter sections of the hike. Be careful when going downhill, as the flat rocks don’t provide much grip and can get extremely slippery in wet conditions. When the gradient is steep, try to take smaller steps to keep your balance.
 
-![Wisdom Path](/assets/{{ page.title }}-4.jpg)
+![Wisdom Path](/assets/{{ page.title }}-4.webp)
 
 The finishing point leads to Wisdom Path, a path lined with 38 wooden monuments inscribed with the Heart Sutra prayer created by Professor Jao Tsung-I. The columns are arranged in a figure-of-eight formation to symbolize infinity.  Tian Tan Buddha (Big Buddha,) a large bronze sculpture and popular tourist attraction, is located to the west of the finishing point, next to Po Lin Monastery.
 
-![Big Buddha is ten minutes away from the finishing point.](/assets/{{ page.title }}-5.jpg)
+![Big Buddha is ten minutes away from the finishing point.](/assets/{{ page.title }}-5.webp)
 
 ## Transport
 

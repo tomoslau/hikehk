@@ -23,9 +23,9 @@ mid: 1ZtJOkzX-ivONljVlqSeLNUsWMKY
 
 從企嶺下出發的最初一小時的攀登難度適中。 步道從海拔 160m 開始，到達 220m，然後逐漸穩定在 200-220m 左右。 步道在馬鞍山附近上升至540m，越過山脊至昂坪觀景台下降至400m。 步道沿著海拔 320m 至 480m 的山脊繼續延伸，終點為海拔 420m 的大老山。
 
-![從馬鞍山看西貢](/assets/{{ page.lang-ref }}-2.jpg)
+![從馬鞍山看西貢](/assets/{{ page.lang-ref }}-2.webp)
 
-![昂坪觀景台](/assets/{{ page.lang-ref }}-3.jpg)
+![昂坪觀景台](/assets/{{ page.lang-ref }}-3.webp)
 
 ## 步道表面
 
@@ -35,7 +35,7 @@ mid: 1ZtJOkzX-ivONljVlqSeLNUsWMKY
 
 健行中有一小段朝北的路段，缺乏陽光和風，即使在乾燥的日子裡也非常潮濕。 再加上岩石台階，使得道路變得濕滑且難以行走。
 
-![上升過程中小路的岩石部分](/assets/{{ page.lang-ref }}-4.jpg)
+![上升過程中小路的岩石部分](/assets/{{ page.lang-ref }}-4.webp)
 
 ## 運輸
 

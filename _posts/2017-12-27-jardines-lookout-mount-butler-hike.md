@@ -21,19 +21,19 @@ Hong Kong Trail Section 5 begins at Wong Nai Chung Road and passes through Jardi
 
 ⚠ The closest transportation from the endpoint is in Quarry Bay, an additional one-hour walk down Mount Parker Road. Alternatively, continue to Section 6, where there is transportation to Sai Wan Ho at the end.
 
-![View of the city from Jardine’s Lookout](/assets/{{ page.title }}-2.jpg)
+![View of the city from Jardine’s Lookout](/assets/{{ page.title }}-2.webp)
 
 ## Hike elevation
 
 Section 5 begins at roughly 200m above sea level and moderately ascends to Jardine’s Lookout at 433m. The trail descends rapidly with plenty of steep stairs. It plateaus momentarily at 300m and then climbs to Mount Butler peak at 436m. The ending point is at 320m elevation.
 
-![Steep descent from Jardine’s Lookout](/assets/{{ page.title }}-3.jpg)
+![Steep descent from Jardine’s Lookout](/assets/{{ page.title }}-3.webp)
 
 ## Trail surface
 
 The majority of the hike is flat, hard steps. The steps during the descent from Jardine’s Lookout are quite steep. There are small sections of irregular rocks and dirt path.
 
-![Boarded up wartime tunnel?](/assets/{{ page.title }}-4.jpg)
+![Boarded up wartime tunnel?](/assets/{{ page.title }}-4.webp)
 
 ## Transport
 

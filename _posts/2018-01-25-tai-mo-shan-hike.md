@@ -24,7 +24,7 @@ The trail itself is not that difficult compared to others like Lantau Peak and S
 
 ⚠ The starting point of this hike is around 1-2 hours walk away from the closest public transport at San Uk Ka (a 5-minute minibus ride from Tai Po Market MTR station).
 
-![View of Northwest New Territories and Shen Zhen in the distance](/assets/{{ page.title }}-2.jpg)
+![View of Northwest New Territories and Shen Zhen in the distance](/assets/{{ page.title }}-2.webp)
 
 ## Hike elevation
 
@@ -36,7 +36,7 @@ The actual highest point of Tai Mo Shan (and Hong Kong) isn’t actually accessi
 
 The road down the southwest side of the mountain (accessible by permitted cars) winds down to compensate the steepness. The trail comes to an end at 480m elevation. The overall descent is quite easy.
 
-![The closed off weather station area at the top of Tai Mo Shan](/assets/{{ page.title }}-3.jpg)
+![The closed off weather station area at the top of Tai Mo Shan](/assets/{{ page.title }}-3.webp)
 
 ## Trail surface
 
