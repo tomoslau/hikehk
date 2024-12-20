@@ -3,12 +3,11 @@ layout: default
 ---
 
 <div class="home wrapper">
+  {%- include banner-ad.html -%}
   {%- if page.title -%}
     <h1 class="page-heading">{{ page.title }}</h1>
   {%- endif -%}
-
   {{ content }}
-  {%- include banner-ad.html -%}
   <div class="section">
     <p>精心策劃的行山路線，包括地圖、交通資訊、評論和照片。</p>
   </div>
