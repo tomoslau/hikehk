@@ -8,10 +8,10 @@ layout: default
   {%- endif -%}
 
   {{ content }}
+  {%- include banner-ad.html -%}
   <div class="section">
     <p>精心策劃的行山路線，包括地圖、交通資訊、評論和照片。</p>
   </div>
-  <hr>
   <div class="section">
     <h2 class="post-list-heading">行山好去處 💯</h2>
     <ul class="post-list">
@@ -33,7 +33,7 @@ layout: default
       {%- endfor -%}
     </ul>
   </div>
-  <hr>
+  {%- include banner-ad.html -%}
   <div class="section">
     <h2 class="post-list-heading">初級行山路線</h2>
     <p>適合家庭的輕鬆健行。</p>
@@ -55,7 +55,7 @@ layout: default
       {%- endfor -%}
     </ul>
   </div>
-   <hr>
+   {%- include banner-ad.html -%}
   <div class="section">
     <h2 class="post-list-heading">中級行山路線</h2>
     <p>這些行山路線會令你流汗。</p>
@@ -77,7 +77,7 @@ layout: default
       {%- endfor -%}
     </ul>
   </div>
- <hr>
+ {%- include banner-ad.html -%}
   <div class="section">
     <h2 class="post-list-heading">高級行山路線</h2>
     <p>值得挑戰的行山路線。</p>
@@ -99,5 +99,5 @@ layout: default
       {%- endfor -%}
     </ul>
   </div>
-
+  {%- include banner-ad.html -%}
 </div>

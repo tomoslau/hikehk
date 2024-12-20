@@ -8,11 +8,11 @@ layout: default
   {%- endif -%}
 
   {{ content }}
+  {%- include banner-ad.html -%}
   <div class="section">
     <h1>Explore Hong Kong hiking trails</h1>
     <p>Curated hikes with trail maps, transportation instructions, reviews, and photos.</p>
   </div>
-  <hr>
   <div class="section">
     <h2 class="post-list-heading">Best Hong Kong hikes 💯</h2>
     <ul class="post-list">
@@ -34,7 +34,7 @@ layout: default
       {%- endfor -%}
     </ul>
   </div>
-  <hr>
+  {%- include banner-ad.html -%}
   <div class="section">
     <h2 class="post-list-heading">Easy hikes</h2>
     <p>Family-friendly and relaxing hikes with minimal elevation and trail surface.</p>
@@ -56,7 +56,7 @@ layout: default
       {%- endfor -%}
     </ul>
   </div>
-   <hr>
+  {%- include banner-ad.html -%}
   <div class="section">
     <h2 class="post-list-heading">Medium hikes</h2>
     <p>Break a sweat hiking these trails.</p>
@@ -78,7 +78,7 @@ layout: default
       {%- endfor -%}
     </ul>
   </div>
- <hr>
+  {%- include banner-ad.html -%}
   <div class="section">
     <h2 class="post-list-heading">Hard hikes</h2>
     <p>These trails are challenging but equally rewarding.</p>
@@ -100,5 +100,5 @@ layout: default
       {%- endfor -%}
     </ul>
   </div>
-
+  {%- include banner-ad.html -%}
 </div>

@@ -3,6 +3,7 @@ layout: default
 ---
 <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
   <div class="wrapper">
+    {%- include banner-ad.html -%}
     <header class="post-header">
       <h1 class="post-title p-name" itemprop="name headline">{{ page.title | escape }}</h1>
       <p class="post-meta">
@@ -27,11 +28,11 @@ layout: default
         <iframe src="https://www.google.com/maps/d/u/0/embed?mid={{ page.mid }}" id="mapp"></iframe>
       </div>
     </header>
-
+    {%- include banner-ad.html -%}
     <div class="post-content e-content section" itemprop="articleBody">
       {{ content }}
     </div>
-    <hr>
+    {%- include banner-ad.html -%}
     <div class="section">
       {%- if page.lang == 'zh' -%}
       <h2>探索更多行山路線</h2>
@@ -77,7 +78,7 @@ layout: default
         {%- endif -%} 
       </div>
     </div>
-
+    {%- include banner-ad.html -%}
     {%- if site.disqus.shortname -%}
       {%- include disqus_comments.html -%}
     {%- endif -%}
