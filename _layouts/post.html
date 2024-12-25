@@ -3,7 +3,6 @@ layout: default
 ---
 <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
   <div class="wrapper">
-    {%- include banner-ad.html -%}
     <header class="post-header">
       <h1 class="post-title p-name" itemprop="name headline">{{ page.title | escape }}</h1>
       <p class="post-meta">
@@ -17,6 +16,7 @@ layout: default
           • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span class="p-author h-card" itemprop="name">{{ page.author }}</span></span>
         {%- endif -%}</p>
       <img src="/assets/{{ page.lang-ref }}-1.webp" alt="{{ page.title }}">
+      {%- include banner-ad.html -%}
       <h2>
         {%- if page.lang == 'zh' -%}
           地圖
@@ -28,7 +28,6 @@ layout: default
         <iframe src="https://www.google.com/maps/d/u/0/embed?mid={{ page.mid }}" id="mapp"></iframe>
       </div>
     </header>
-    {%- include banner-ad.html -%}
     <div class="post-content e-content section" itemprop="articleBody">
       {{ content }}
     </div>
